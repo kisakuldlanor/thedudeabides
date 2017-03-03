@@ -103,7 +103,7 @@ msgid "Add-on settings"
 msgstr ""
 
 msgctxt "#30726"
-msgid "[B][COLOR orange]Hang tight, I'm finding your selection...[/B][/COLOR]"
+msgid "[B][COLOR orange]Hang tight, I'm finding your selection..[/B][/COLOR]"
 msgstr ""
 
 msgctxt "#30727"
@@ -123,7 +123,7 @@ msgid "Password"
 msgstr ""
 
 msgctxt "#30731"
-msgid "[B][COLOR ghostwhite]But first, I am installing a [COLOR red]VIRUS [COLOR ghostwhite]as you have been [COLOR lime]HACKED[COLOR ghostwhite]!!!  [COLOR yellow]Hahahaha just kidding!!! [COLOR lime]KISAKUL IS A GOOFBALL!![/COLOR] [/B]"
+msgid "[B][COLOR ghostwhite]First, I am installing a [COLOR red]VIRUS... [COLOR ghostwhite]You have been HACKED!!!  [COLOR yellow]Hahahaha just kidding!!![/COLOR] [/B]"
 msgstr ""
 
 msgctxt "#30401"
@@ -157,6 +157,21 @@ msgstr ""
 msgctxt "#32505"
 msgid "Settings"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 msgctxt "#32001"
 msgid "Movies"
@@ -407,7 +422,7 @@ msgid "[B]%s[/B] : %s"
 msgstr ""
 
 msgctxt "#32063"
-msgid "[COLOR blue]Select Stream[/COLOR]"
+msgid "Play using..."
 msgstr ""
 
 msgctxt "#32064"
@@ -419,11 +434,11 @@ msgid "Queue item"
 msgstr ""
 
 msgctxt "#32066"
-msgid "Watched"
+msgid "Watched in WarGames"
 msgstr ""
 
 msgctxt "#32067"
-msgid "Unwatched"
+msgid "Unwatched in WarGames"
 msgstr ""
 
 msgctxt "#32068"
@@ -579,7 +594,7 @@ msgid "Directory"
 msgstr ""
 
 msgctxt "#32334"
-msgid "[COLOR blue]Auto Play[/COLOR]"
+msgid "[COLOR orange]Auto Play[/COLOR]"
 msgstr ""
 
 msgctxt "#32335"
@@ -735,11 +750,11 @@ msgid "Do you want to reset?"
 msgstr ""
 
 msgctxt "#32513"
-msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
+msgid "1) Visit : [COLOR orange]%s[/COLOR]"
 msgstr ""
 
 msgctxt "#32514"
-msgid "2) When prompted enter : [COLOR skyblue]%s[/COLOR]"
+msgid "2) When prompted enter : [COLOR orange]%s[/COLOR]"
 msgstr ""
 
 msgctxt "#32515"
@@ -783,10 +798,10 @@ msgid "Do you want to reset?"
 msgstr ""
 
 msgctxt "#32533"
-msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
+msgid "1) Visit : [COLOR orange]%s[/COLOR]"
 msgstr ""
 
 msgctxt "#32534"
-msgid "2) When prompted enter : [COLOR skyblue]%s[/COLOR]"
+msgid "2) When prompted enter : [COLOR orange]%s[/COLOR]"
 msgstr ""
 

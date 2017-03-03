@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 '''
-    WarGames Add-on
-    Copyright (C) 2016 WarGames
+    wargames Add-on
+    Copyright (C) 2016 wargames
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -35,6 +35,8 @@ setting = xbmcaddon.Addon().getSetting
 setSetting = xbmcaddon.Addon().setSetting
 
 addon = xbmcaddon.Addon
+
+join = os.path.join
 
 addItem = xbmcplugin.addDirectoryItem
 
