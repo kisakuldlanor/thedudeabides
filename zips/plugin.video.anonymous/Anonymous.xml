@@ -1,0 +1,137 @@
+
+
+<layouttype>thumbnail</layouttype>
+
+
+
+<channels>
+
+
+<channel>
+<name>Kodi Addon</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/kodiaddon.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>Live Matchs</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/kodiaddon.jpg</thumbnail>
+<externallink>http://pastebin.com/raw/5C8FR51q</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+
+
+<channel>
+<name>UK Sports TV</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41jWCcGHgVL._AC_UL320_SR240,320_.jpg</thumbnail>
+<externallink>https://goo.gl/pmE3Ap</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>Anonymous Sports</info>
+</channel>
+
+<channel>
+<name>Events</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41jWCcGHgVL._AC_UL320_SR240,320_.jpg</thumbnail>
+<externallink>https://goo.gl/hUPFDG</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>Anonymous Sports</info>
+</channel>
+
+<channel>
+<name>Celtic FC & On Demand</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41jWCcGHgVL._AC_UL320_SR240,320_.jpg</thumbnail>
+<externallink>https://goo.gl/KFfQLb</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>Anonymous Sports</info>
+</channel>
+
+
+<channel>
+<name>World IPTV Lists</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/iptvlists.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/worldtv.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>Kids Section</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/kidssections.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/kis.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>News</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/news.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/news.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>YouTube</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/youtubes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/youtube.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+
+<channel>
+<name>Quick Sports Links</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/sportsquicklinks.jpg</thumbnail>
+<externallink>http://textuploader.com/d544e/raw</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>Sports</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/sports.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/sports.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/movielists.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/movies.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>24/7 Tv Shows</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/247tvshows.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/24-7shows.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+
+<channel>
+<name>Anime Movies-Shows</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/anime.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/anime.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+<channel>
+<name>Music</name>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/music.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/Music/music.xml</externallink>
+<fanart>http://cdn.paper4pc.com/images/hacker-hacking-hack-anarchy-virus-internet-computer-sadic-anonymous-dark-wallpaper-3.jpg</fanart>
+<info>ASS</info>
+</channel>
+
+
+
+</channels>
