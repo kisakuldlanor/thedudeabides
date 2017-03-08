@@ -1,0 +1,21 @@
+name="Queue Feature of BOB"
+section="no"
+url="https://youtu.be/y0w8zIH4lOY"
+icon="https://i.ytimg.com/vi/y0w8zIH4lOY/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pDUZ_rR2uHa4rBE41EixwMMAIuU"
+fanart="http://www.dabutcher.org/fanart/Fanart.png"
+description="Guide to using the queue feature in Bob"
+
+name="Aftermath Wizard Guides"
+section="yes"
+url="http://aftermathwizard.net/repo/youtube2.txt"
+icon="https://i.ytimg.com/vi/M6hPbHzK8Lw/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8jBco2mpljuMmB1qso7vA-Lc0AY"
+fanart="http://www.dabutcher.org/fanart/Fanart.png"
+description="Guide for setting up Aftermath"
+
+
+
+* Note: sections where added in 0.1.7 if you wish to add a category set section to "yes" and set the url to a text file.
+You can use the following types of urls for the text file:
+- https://youtu.be/M6hPbHzK8Lw
+- https://www.youtube.com/watch?v=M6hPbHzK8Lw
+- https://www.youtube.com/embed/M6hPbHzK8Lw

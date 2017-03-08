@@ -1,0 +1,22 @@
+name="Default theme"
+url="http://aftermathwizard.net/repo/builds/theme1.zip"
+icon="http://aftermathwizard.net/img/test1.png"
+fanart="http://aftermathwizard.net/img/test1.png"
+adult="no"
+description="Default theme no Adult"
+
+name="Red theme"
+url="http://aftermathwizard.net/repo/builds/theme2.zip"
+icon="http://aftermathwizard.net/img/test2.png"
+fanart="http://aftermathwizard.net/img/test2.png"
+adult="yes"
+description="Red Adult Theme"
+
+
+
+
+
+The theme zip file will most likely contain the following folders:
+/addons/(skinnamehere)/media/Textures.xbt
+/userdata/backgrounds/
+/userdata/addon_data/(skinnamehere)/settings.xml
