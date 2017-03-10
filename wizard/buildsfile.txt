@@ -2,7 +2,7 @@
 
 
 name="Bare Bones Build"
-version="2017.03.03"
+version="2017.03.10"
 url="http://myanonymousfriends.com/builds/ronfluence.zip"
 gui="http://"
 kodi="16.1"
@@ -14,7 +14,7 @@ adult="no"
 description="Bare Bones Build for sticks."
 
 name="AnonFluence"
-version="2017.03.03"
+version="2017.03.10"
 url="http://myanonymousfriends.com/builds/ronfluence.zip"
 gui="http://"
 kodi="16.1"
