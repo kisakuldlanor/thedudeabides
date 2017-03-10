@@ -204,8 +204,8 @@
 
 <addon
   id="skin.anonfluence"
-  version="2017.03.09"
-  name="Anon-fluence"
+  version="2017.03.09b"
+  name="Ronfluence"
   provider-name="kISAKUL... Mod from Helly">
   <requires>
     <import addon="xbmc.gui" version="5.10.0"/>
