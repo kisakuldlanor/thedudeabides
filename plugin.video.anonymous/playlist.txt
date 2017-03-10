@@ -1,0 +1,52 @@
+
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR blue]How To:[/COLOR] [COLOR yellow]Kodi[/COLOR][/B]</name>
+<thumbnail>https://thestreammachine.000webhostapp.com/TSMVideos/icon.png</thumbnail>
+<fanart>https://thestreammachine.000webhostapp.com/TSMVideos/fanart.jpg</fanart>
+<externallink>https://thestreammachine.000webhostapp.com/TSMVideos/kodihowto.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]How To:[/COLOR] [COLOR yellow]Android[/COLOR][/B]</name>
+<thumbnail>https://thestreammachine.000webhostapp.com/TSMVideos/icon.png</thumbnail>
+<fanart>https://thestreammachine.000webhostapp.com/TSMVideos/fanart.jpg</fanart>
+<externallink>https://thestreammachine.000webhostapp.com/TSMVideos/androidhowto.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Movies:[/COLOR] [COLOR yellow]Action[/COLOR][/B]</name>
+<thumbnail>https://thestreammachine.000webhostapp.com/TSMVideos/icon.png</thumbnail>
+<fanart>https://thestreammachine.000webhostapp.com/TSMVideos/fanart.jpg</fanart>
+<externallink>https://thestreammachine.000webhostapp.com/TSMVideos/movies-action.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Movies:[/COLOR] [COLOR yellow]Comedy[/COLOR][/B]</name>
+<thumbnail>https://thestreammachine.000webhostapp.com/TSMVideos/icon.png</thumbnail>
+<fanart>https://thestreammachine.000webhostapp.com/TSMVideos/fanart.jpg</fanart>
+<externallink>https://thestreammachine.000webhostapp.com/TSMVideos/movies-comedy.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Movies:[/COLOR] [COLOR yellow]Gangster[/COLOR][/B]</name>
+<thumbnail>https://thestreammachine.000webhostapp.com/TSMVideos/icon.png</thumbnail>
+<fanart>https://thestreammachine.000webhostapp.com/TSMVideos/fanart.jpg</fanart>
+<externallink>https://thestreammachine.000webhostapp.com/TSMVideos/movies-gangster.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Test:[/COLOR] [COLOR yellow]Test[/COLOR][/B]</name>
+<thumbnail>https://thestreammachine.000webhostapp.com/TSMVideos/icon.png</thumbnail>
+<fanart>https://thestreammachine.000webhostapp.com/TSMVideos/fanart.jpg</fanart>
+<externallink>https://thestreammachine.000webhostapp.com/TSMVideos/test.txt</externallink>
+</channel>
+
+</channels>
+
+
+
+
+

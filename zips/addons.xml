@@ -52,8 +52,8 @@
 </addon>
 
 <addon id="plugin.video.anonymous"
-       name="[COLOR antiquewhite] Anonymous Stolen Streams[/COLOR]"
-       version="2017.03.10"
+       name="Anonymous Stolen Streams"
+       version="14.0.10"
        provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -62,9 +62,9 @@
     <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-	<import addon="script.common.plugin.cache" version="2.5.5"/>
-	<import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.metahandler" version="2.5.1"/>
+  <import addon="script.module.addon.common" />
     <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" optional="true" />
@@ -72,15 +72,17 @@
     <import addon="script.module.simplejson" />    
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
-	 <import addon="repository.anonymousgroup" />
+   <import addon="repository.anonymousgroup" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+
+
   <extension point="xbmc.addon.metadata">
     <summary>Anonymous Stolen Streams modded from LiveStreams Pro.</summary>
     <description>
-		We have sourced these internet links. They are from other addons and other sources found pubically on the internet. Thank you to those we sourced them from. We do not host any content, we only provide the URLS that were attained through google and other internet sources pubically searchable.
+    We have sourced these internet links. They are from other addons and other sources found pubically on the internet. Thank you to those we sourced them from. We do not host any content, we only provide the URLS that were attained through google and other internet sources pubically searchable.
     </description>
     <platform>all</platform>
   </extension>
