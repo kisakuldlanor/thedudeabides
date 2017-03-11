@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="skin.ronfluence16"
+  version="2099.03.11"
+  name="Ronfluence 16"
+  provider-name="KISAKUL... Mod from Helly">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+	  <import addon="script.favourites" version="6.0.3"/>
+	  <import addon="service.skin.widgets" version="0.0.30"/>
+	  <import addon="service.library.data.provider" version="0.1.3"/>
+	  <import addon="script.randomandlastitems" version="2.2.2"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">KISAKUL MOD of Helly Xonfluence.</summary>
+    <summary lang="en_US">KISAKUL MOD of Helly Xonfluence.</summary>
+    <description lang="en">This skin is a mod of Xonfluence which is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">This skin is a mod of Xonfluence which is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
