@@ -202,15 +202,15 @@
 
 <addon
   id="skin.ronfluence16"
-  version="2099.03.11"
+  version="2017.03.11"
   name="Ronfluence 16"
   provider-name="KISAKUL... Mod from Helly">
   <requires>
     <import addon="xbmc.gui" version="5.10.0"/>
-	  <import addon="script.favourites" version="6.0.3"/>
-	  <import addon="service.skin.widgets" version="0.0.30"/>
-	  <import addon="service.library.data.provider" version="0.1.3"/>
-	  <import addon="script.randomandlastitems" version="2.2.2"/>
+    <import addon="script.favourites" version="6.0.3"/>
+    <import addon="service.skin.widgets" version="0.0.30"/>
+    <import addon="service.library.data.provider" version="0.1.3"/>
+    <import addon="script.randomandlastitems" version="2.2.2"/>
   </requires>
   <extension
     point="xbmc.gui.skin"
