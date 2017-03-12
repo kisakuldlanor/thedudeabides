@@ -86,3 +86,13 @@ fanart="https://offshoregit.com/podgod/repo/zips/plugin.video.prosport/fanart.jp
 adult="no"
 description="Pro Sport Addon."
 
+name="SportsDevil"
+plugin="plugin.video.SportsDevil"
+url="https://offshoregit.com/unofficialsportsdevil/plugin.video.SportsDevil/"
+repository="repository.unofficialsportsdevil"
+repositoryxml="https://offshoregit.com/unofficialsportsdevil/addons.xml"
+repositoryurl="https://offshoregit.com/unofficialsportsdevil/repository.unofficialsportsdevil/"
+icon="https://offshoregit.com/unofficialsportsdevil/repository.unofficialsportsdevil/icon.png"
+fanart="https://offshoregit.com/unofficialsportsdevil/repository.unofficialsportsdevil/fanart.jpg"
+adult="no"
+description="SportsDevil Addon."
