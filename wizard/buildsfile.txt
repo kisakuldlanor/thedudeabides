@@ -38,7 +38,7 @@ adult="no"
 description="AnonFluence Starter Build.  Great beginner build to help you start building your own."
 
 name="Fipps's Build - 4 STICKS"
-version="2017.03.10"
+version="2017.03.14"
 url="http://myanonymousfriends.com/builds/fippsbuild.zip"
 gui="http://"
 kodi="16.1"
