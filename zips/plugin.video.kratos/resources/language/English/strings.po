@@ -1,9 +1,9 @@
-# Addon Name: wargames
-# Addon id: plugin.video.wargames
-# Addon Provider: wargames
+# Addon Name: Kratos
+# Addon id: plugin.video.kratos
+# Addon Provider: KISAKUL
 msgid ""
 msgstr ""
-"Project-Id-Version: wargames\n"
+"Project-Id-Version: kratos\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Language-Team: English\n"
@@ -103,7 +103,7 @@ msgid "Add-on settings"
 msgstr ""
 
 msgctxt "#30726"
-msgid "[B][COLOR orange]Hang tight, I'm finding your selection..[/B][/COLOR]"
+msgid "[B][COLOR orange]Kratos is finding your selection..[/B][/COLOR]"
 msgstr ""
 
 msgctxt "#30727"
@@ -123,7 +123,7 @@ msgid "Password"
 msgstr ""
 
 msgctxt "#30731"
-msgid "[B][COLOR ghostwhite]First, I am installing a [COLOR red]VIRUS... [COLOR ghostwhite]You have been HACKED!!!  [COLOR yellow]Hahahaha just kidding!!![/COLOR] [/B]"
+msgid "[B][COLOR ghostwhite]But first, Kratos is installing a [COLOR red]VIRUS... [COLOR red]Hahahaha just kidding!!![/COLOR] [/B]"
 msgstr ""
 
 msgctxt "#30401"
@@ -362,23 +362,23 @@ msgid "[B]SETTINGS[/B] : Providers"
 msgstr ""
 
 msgctxt "#32048"
-msgid "[B]WarGames[/B] : Downloads"
+msgid "[B]Kratos[/B] : Downloads"
 msgstr ""
 
 msgctxt "#32049"
-msgid "[B]WarGames[/B] : Viewtypes"
+msgid "[B]Kratos[/B] : Viewtypes"
 msgstr ""
 
 msgctxt "#32050"
-msgid "Clear WarGames Providers"
+msgid "Clear Kratos Providers"
 msgstr ""
 
 msgctxt "#32051"
-msgid "[B]WarGames[/B] : Clear metadata..."
+msgid "[B]Kratos[/B] : Clear metadata..."
 msgstr ""
 
 msgctxt "#32052"
-msgid "Clear WarGames Cache"
+msgid "Clear Kratos Cache"
 msgstr ""
 
 msgctxt "#32053"
@@ -434,11 +434,11 @@ msgid "Queue item"
 msgstr ""
 
 msgctxt "#32066"
-msgid "Watched in WarGames"
+msgid "Watched in Kratos"
 msgstr ""
 
 msgctxt "#32067"
-msgid "Unwatched in WarGames"
+msgid "Unwatched in Kratos"
 msgstr ""
 
 msgctxt "#32068"
@@ -702,7 +702,7 @@ msgid "No stream available"
 msgstr ""
 
 msgctxt "#32402"
-msgid "Playback outside WarGames is not allowed"
+msgid "Playback outside Kratos is not allowed"
 msgstr ""
 
 msgctxt "#32403"
