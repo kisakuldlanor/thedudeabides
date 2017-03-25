@@ -38,7 +38,7 @@ description="Kratos Build for sticks."
 
 
 name="AnonFluence"
-version="2017.03.10"
+version="2017.03.24"
 url="http://myanonymousfriends.com/builds/ronfluence.zip"
 gui="http://"
 kodi="16.1"
