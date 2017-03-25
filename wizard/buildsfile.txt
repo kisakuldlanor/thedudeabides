@@ -35,17 +35,7 @@ preview="http://"
 adult="no"
 description="Kratos Build for sticks."
 
-name="Bare Bones Build"
-version="2017.03.10"
-url="http://myanonymousfriends.com/builds/ronfluence.zip"
-gui="http://"
-kodi="16.1"
-theme="http://"
-icon="http://myanonymousfriends.com/builds/ronfluence.png"
-fanart="http://myanonymousfriends.com/builds/ronfluence.png"
-preview="http://"
-adult="no"
-description="Bare Bones Build for sticks."
+
 
 name="AnonFluence"
 version="2017.03.10"
@@ -57,7 +47,7 @@ icon="http://myanonymousfriends.com/builds/ronfluence.png"
 fanart="http://myanonymousfriends.com/builds/ronfluence.png"
 preview="http://"
 adult="no"
-description="AnonFluence BETA."
+description="AnonFluence build for sticks."
 
 
 
