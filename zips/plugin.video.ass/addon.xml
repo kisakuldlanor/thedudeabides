@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.anonymous"
-       name="[COLOR antiquewhite] Anonymous Stolen Streams[/COLOR]"
-       version="2017.03.10"
+<addon id="plugin.video.ass"
+       name="[COLOR ghostwhite] Anonymous SS[/COLOR]"
+       version="2017.03.11"
        provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -20,7 +20,7 @@
     <import addon="script.module.simplejson" />    
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
-	 <import addon="repository.anonymousgroup" />
+	 <import addon="repository.maf" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
