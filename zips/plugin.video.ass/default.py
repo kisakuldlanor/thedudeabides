@@ -54,9 +54,9 @@ if REMOTE_DBG:
         sys.exit(1)
 		
 		
-addon = xbmcaddon.Addon('plugin.video.anonymous')
+addon = xbmcaddon.Addon('plugin.video.ass')
 
-addon_id='plugin.video.anonymous'
+addon_id='plugin.video.ass'
 
 selfAddon = xbmcaddon.Addon(id=addon_id)
 
@@ -67,7 +67,7 @@ addon_name = selfAddon.getAddonInfo('name')
 #addon = _Edit.addon
 addon = Addon(addon_id, sys.argv)
 dialog = xbmcgui.Dialog()
-addon = xbmcaddon.Addon('plugin.video.anonymous')
+addon = xbmcaddon.Addon('plugin.video.asss')
 profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
 home = xbmc.translatePath(addon.getAddonInfo('path').decode('utf-8'))
 favorites = os.path.join(home, 'favorites')
@@ -124,7 +124,7 @@ else: SOURCES = []
 	
 def addon_log(string):
     if debug == 'true':
-        xbmc.log("[addon.anonymous-%s]: %s" %(addon_version, string))
+        xbmc.log("[addon.ass-%s]: %s" %(addon_version, string))
 		
 def PT(url):
         addon.log('Play Trailer %s' % url)
