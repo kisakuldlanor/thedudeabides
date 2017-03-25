@@ -18,39 +18,6 @@
 
 
 
-<addon id="plugin.video.wargames" name="[COLOR antiquewhite][B] WarGames[/B][/COLOR]" version="2017.03.11" provider-name="[COLOR ghostwhite][B]KISAKUL[/B][/COLOR]">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
-		<import addon="script.module.pyxbmct" version="1.1.4" />
-		<import addon="script.module.urlresolver" version="3.0.0"/>
-		<import addon="script.module.liveresolver" version="0.1.24"/>
-		<import addon="script.video.F4mProxy" version="2.2.3"/>
-		<import addon="script.wargames.artwork" version="1.0.0"/>
-		<import addon="script.wargames.metadata" version="1.0.0"/>
-		<import addon="script.module.metahandler" version="1.0.0" />
-		<import addon="script.module.wargames"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Is this real or is it a game?</summary>
-		<description lang="en">WarGames - Thinking oustide the box to make your streaming experience better.  </description>
-		<disclaimer lang="en">The author does not host or distribute any content. Credits to Phoenix and Exodus for SOME of the base code.</disclaimer>
-		<platform>all</platform>
-		<forum>https://www.facebook.com/groups/anonymouskodi/</forum>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
-			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
-			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
-		</assets>
-		<news>The only winning move is not to play.</news>
-	</extension>
-</addon>
-
 <addon id="plugin.video.anonymous"
        name="[COLOR antiquewhite] Anonymous Stolen Streams[/COLOR]"
        version="2017.03.10"
@@ -82,55 +49,6 @@
     <description>
 		We have sourced these internet links. They are from other addons and other sources found pubically on the internet. Thank you to those we sourced them from. We do not host any content, we only provide the URLS that were attained through google and other internet sources pubically searchable.
     </description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon 	id="script.wargames.metadata" 
-		version="1.5.2" 
-		name="WarGames Metadata" 
-		provider-name="ANONYMOUS">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Metadata for the WarGames Addon</summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon 	id="script.wargames.artwork" 
-		version="1.5.5" 
-		name="WarGames Artwork" 
-		provider-name="ANONYMOUS">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Themes for the WarGames Addon</summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="script.module.wargames" name="[B][COLOR ghostwhite]WarGames Streamer[/COLOR][/B]" version="1.0.6" provider-name="KISAKUL">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.addon.common" />
-	<import addon="script.module.requests" />
-	<import addon="script.module.urlresolver" />
-	<import addon="script.module.liveresolver" version="0.1.24"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Dependency Addon for WarGames</summary>
-    <description lang="en">Dependency Addon for WarGames</description>
-	<disclaimer lang="en">Dependency Addon for Wargames</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
@@ -279,7 +197,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.kratos" name="[COLOR antiquewhite] Kratos[/COLOR]" version="2017.03.19" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+<addon id="plugin.video.kratos" name="[COLOR antiquewhite] Kratos[/COLOR]" version="2017.03.25" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
