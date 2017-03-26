@@ -22,23 +22,8 @@ preview="http://"
 adult="no"
 description="Ronfluence build LITE."
 
-
-name="Kratos"
-version="2017.03.20"
-url="http://myanonymousfriends.com/builds/kratos.zip"
-gui="http://"
-kodi="16.1"
-theme="http://"
-icon="http://myanonymousfriends.com/builds/kratos.png"
-fanart="http://myanonymousfriends.com/builds/kratos.png"
-preview="http://"
-adult="no"
-description="Kratos Build for sticks."
-
-
-
 name="AnonFluence"
-version="2017.03.24"
+version="2017.03.26"
 url="http://myanonymousfriends.com/builds/ronfluence.zip"
 gui="http://"
 kodi="16.1"
@@ -48,8 +33,6 @@ fanart="http://myanonymousfriends.com/builds/ronfluence.png"
 preview="http://"
 adult="no"
 description="AnonFluence build for sticks."
-
-
 
 name="Fipps's Build - 4 STICKS"
 version="2017.03.14"
