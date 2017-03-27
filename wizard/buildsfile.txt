@@ -35,7 +35,7 @@ adult="no"
 description="Kratos God of War build for sticks."
 
 name="AnonFluence"
-version="2017.03.26"
+version="2017.03.26b"
 url="http://myanonymousfriends.com/builds/ronfluence.zip"
 gui="http://"
 kodi="16.1"
