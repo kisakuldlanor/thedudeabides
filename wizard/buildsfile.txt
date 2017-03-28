@@ -1,5 +1,5 @@
 name="Kratos 17"
-version="2017.03.24"
+version="2017.03.27"
 url="http://myanonymousfriends.com/builds/kratos17.zip"
 gui="http://"
 kodi="17.1"
