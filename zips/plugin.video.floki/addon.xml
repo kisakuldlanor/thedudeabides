@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.floki" name="[COLOR ghosthite] Floki[/COLOR]" version="2017.04.01" provider-name="KISAKUL">
+<addon id="plugin.video.floki" name="[COLOR antiquewhite] Floki[/COLOR]" version="2017.04.01" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests" />
@@ -9,7 +9,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-		<summary lang="en">Floki</summary>
+		<summary lang="en">Floki.  Once Click Media Addon.  Credits to SClarke for collaboration and assistance.  Contact me on Twitter @_KISAKUL</summary>
 		<description lang="en">Floki - One Click Media.  </description>
 		<disclaimer lang="en">The author does not host or distribute any content. Credit to SClarke for collaboration and assistance.</disclaimer>
 		<platform>all</platform>
