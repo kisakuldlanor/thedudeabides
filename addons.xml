@@ -230,4 +230,30 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.floki" name="[COLOR ghosthite] Floki[/COLOR]" version="2017.04.01" provider-name="KISAKUL">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.requests" />
+  <import addon="script.module.urlresolver" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Floki</summary>
+    <description lang="en">Floki - One Click Media.  </description>
+    <disclaimer lang="en">The author does not host or distribute any content. Credit to SClarke for collaboration and assistance.</disclaimer>
+    <platform>all</platform>
+    <forum>@_KISAKUL on Twitter</forum>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+      <screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+      <screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+    </assets>
+    <news>Floki</news>
+  </extension>
+</addon>
+
 </addons>
