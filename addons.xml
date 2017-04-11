@@ -148,19 +148,19 @@
 </addon>
 
 
-<addon 	id="script.kratos.artwork" 
-		version="2017.03.19" 
-		name="Kratos Artwork" 
-		provider-name="KISAKUL">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Themes for the Kratos Addon</summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
+<addon  id="script.kratos.artwork" 
+    version="2017.04.10" 
+    name="Kratos Artwork" 
+    provider-name="KISAKUL">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Themes for the Kratos Addon</summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon 	id="script.kratos.metadata" 
