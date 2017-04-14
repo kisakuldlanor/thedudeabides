@@ -59,7 +59,7 @@ adult="no"
 description="Ronfluence build LITE."
 
 name="build for beta testers"
-version="2017.04.14"
+version="2017.04.14.a"
 url="http://myanonymousfriends.com/builds/testronfluence17.zip"
 gui="http://"
 kodi="17.1"
