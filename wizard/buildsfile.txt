@@ -23,7 +23,7 @@ adult="no"
 description="Fipp's Build for sticks."
 
 name="ArCtic FIPPS"
-version="2017.03.31b"
+version="2017.04.14"
 url="http://myanonymousfriends.com/builds/arcticfipps17.zip"
 gui="http://"
 kodi="17.1"
