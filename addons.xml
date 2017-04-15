@@ -194,7 +194,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.kratos" name="[COLOR ghostwhite] Kratos[/COLOR]" version="2017.04.11" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+<addon id="plugin.video.kratos" name="[COLOR ghostwhite] Kratos[/COLOR]" version="2017.04.14" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
@@ -223,8 +223,7 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>Kratos - The God of War</news>
+		<news>Kratos - The God of War.  This addon is open source.  I can and will do what I want with this addon.  If you don't like that idea, simply uninstall and do not use it.  Otherwise, Enjoy some great content!! You can contact me on Twitter:  @_KISAKUL</news>
 	</extension>
-</addon>
 
 </addons>
