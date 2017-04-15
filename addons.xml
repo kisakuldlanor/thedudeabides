@@ -1,6 +1,8 @@
 <addons>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
 <addon id="plugin.program.mafwizard" name="MAF Wizard" version="2017.03.25" provider-name="KISAKUL">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -17,62 +19,6 @@
 </addon>
 
 
-
-<addon id="plugin.video.ass"
-       name="[COLOR ghostwhite] Anonymous SS[/COLOR]"
-       version="2017.03.11"
-       provider-name="Anonymous">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-	<import addon="script.common.plugin.cache" version="2.5.5"/>
-	<import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
-    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />    
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
-	 <import addon="repository.maf" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Anonymous Stolen Streams modded from LiveStreams Pro.</summary>
-    <description>
-		We have sourced these internet links. They are from other addons and other sources found pubically on the internet. Thank you to those we sourced them from. We do not host any content, we only provide the URLS that were attained through google and other internet sources pubically searchable.
-    </description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="service.mafpvrtool"
-       name="MAF PVR Tool"
-      version="2017.03.25"
-      provider-name="Anonymous">
-    <requires>
-        <import addon="xbmc.addon" version="12.0.0"/>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.requests"/>
-    <import addon="repository.maf" />
-    </requires>
-    <extension point="xbmc.service" library="service.py" start="login"/>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">A simple PVR tools addon for kodi (iptv simple) Reworked by Anonymous</summary>
-        <summary lang="pt">Um simples addon de ferramentas pvr para o kodi (iptv simple)Reworked by Anonymous</summary>
-         <description lang="en">This addon allows you to download, extract and merge xmltv files to make a single xmltv file for XBMC PVR. It supports internet files compressed in gzip format (or plain xml). The same is applied to different m3u lists (local or hosted on the web)</description>
-         <description lang="pt">Este addon permite juntar vários ficheiros xmltv de forma a construir um xmltv único para a secção PVR do XBMC. Suporta ficheiros alojados na web comprimidos em gzip (ou simples xml). Também permite juntar várias listas m3u (locais ou da web). </description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    </extension>
-</addon>
 
 <addon
   id="skin.ronfluence"
@@ -115,6 +61,7 @@
 </addon>
 
 
+
 <addon
   id="skin.ronfluence16"
   version="2017.03.11"
@@ -145,6 +92,7 @@
 </addon>
 
 
+
 <addon  id="script.kratos.artwork" 
     version="2017.04.10" 
     name="Kratos Artwork" 
@@ -160,6 +108,8 @@
   </extension>
 </addon>
 
+
+
 <addon 	id="script.kratos.metadata" 
 		version="2017.03.19" 
 		name="Kratos Metadata" 
@@ -174,6 +124,8 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+
+
 
 <addon id="script.module.kratos" name="[COLOR ghostwhite]Kratos Streamer[/COLOR]" version="2017.03.19" provider-name="KISAKUL">
   <requires>
@@ -193,6 +145,8 @@
     <platform>all</platform>
   </extension>
 </addon>
+
+
 
 <addon id="plugin.video.kratos" name="[COLOR ghostwhite] Kratos[/COLOR]" version="2017.04.14" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
 	<requires>
@@ -226,5 +180,7 @@
 		<news>Kratos - The God of War.  This addon is open source.  I can and will do what I want with this addon.  If you don't like that idea, simply uninstall and do not use it.  Otherwise, Enjoy some great content!! You can contact me on Twitter:  @_KISAKUL</news>
 	</extension>
 </addon>
+
+
 
 </addons>
