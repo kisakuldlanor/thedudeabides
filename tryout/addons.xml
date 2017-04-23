@@ -3,6 +3,26 @@
 
 
 
+
+<addon id="script.module.kratos" name="[COLOR ghostwhite]Kratos Streamer[/COLOR]" version="2017.04.22" provider-name="KISAKUL">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+	<import addon="script.module.urlresolver" />
+	<import addon="script.module.liveresolver" version="0.1.24"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="giggity.py">
+        <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dependency Addon for Kratos</summary>
+    <description lang="en">Dependency Addon for Kratos</description>
+	<disclaimer lang="en">Dependency Addon for Kratos</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon  id="script.kratos.artwork" 
     version="2017.04.10" 
     name="Kratos Artwork" 
@@ -17,7 +37,6 @@
     <platform>all</platform>
   </extension>
 </addon>
-
 
 <addon 	id="script.kratos.metadata" 
 		version="2017.03.19" 
@@ -34,8 +53,7 @@
 	</extension>
 </addon>
 
-
-<addon id="plugin.video.kratos" name=" Kratos" version="2017.04.21" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+<addon id="plugin.video.kratos" name=" Kratos" version="2017.04.22" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
@@ -46,6 +64,7 @@
 		<import addon="script.kratos.artwork" version="1.0.0"/>
 		<import addon="script.kratos.metadata" version="1.0.0"/>
 		<import addon="script.module.metahandler" version="1.0.0" />
+		<import addon="script.module.kratos"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
@@ -66,6 +85,7 @@
 		<news>Kratos - The God of War.  This addon is open source.  I can and will do what I want with this addon.  If you don't like that idea, simply uninstall and do not use it.  Otherwise, Enjoy some great content!! You can contact me on Twitter:  @_KISAKUL</news>
 	</extension>
 </addon>
+
 
 
 

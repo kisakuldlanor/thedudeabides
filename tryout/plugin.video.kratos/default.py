@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 '''
-    Kratos
-    
+    Exodus Add-on
+    Copyright (C) 2016 Exodus
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -57,115 +57,7 @@ source = params.get('source')
 
 content = params.get('content')
 
-fanart = params.get('fanart')
 
-##########################################################################################################################
-
-if action == None:
-    from resources.lib.zindexers import kratos
-    kratos.indexer().root()
-
-elif action == 'directory':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().get(url)
-
-elif action == 'parental':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().parental_controls()
-
-elif action == 'qdirectory':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().getq(url)
-
-elif action == 'xdirectory':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().getx(url)
-
-elif action == 'developer':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().developer()
-
-elif action == 'tvtuner':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().tvtuner(url)
-
-elif 'youtube' in str(action):
-    from resources.lib.zindexers import kratos
-    kratos.indexer().youtube(url, action)
-
-elif action == 'play':
-    from resources.lib.zindexers import kratos
-    kratos.player().play(url, content)
-
-elif action == 'browser':
-    from resources.lib.zindexers import kratos
-    kratos.resolver().browser(url)
-
-elif action == 'search':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().search()
-
-elif action == 'addSearch':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().addSearch(url)
-
-elif action == 'delSearch':
-    from resources.lib.zindexers import kratos
-    kratos.indexer().delSearch()
-
-elif action == 'queueItem':
-    from resources.lib.zmodules import control
-    control.queueItem()
-
-elif action == 'openSettings':
-    from resources.lib.zmodules import control
-    control.openSettings()
-
-elif action == 'urlresolverSettings':
-    from resources.lib.zmodules import control
-    control.openSettings(id='script.module.urlresolver')
-
-elif action == 'addView':
-    from resources.lib.zmodules import views
-    views.addView(content)
-
-elif action == 'downloader':
-    from resources.lib.zmodules import downloader
-    downloader.downloader()
-
-elif action == 'addDownload':
-    from resources.lib.zmodules import downloader
-    downloader.addDownload(name,url,image)
-
-elif action == 'removeDownload':
-    from resources.lib.zmodules import downloader
-    downloader.removeDownload(url)
-
-elif action == 'startDownload':
-    from resources.lib.zmodules import downloader
-    downloader.startDownload()
-
-elif action == 'startDownloadThread':
-    from resources.lib.zmodules import downloader
-    downloader.startDownloadThread()
-
-elif action == 'stopDownload':
-    from resources.lib.zmodules import downloader
-    downloader.stopDownload()
-
-elif action == 'statusDownload':
-    from resources.lib.zmodules import downloader
-    downloader.statusDownload()
-
-elif action == 'trailer':
-    from resources.lib.zmodules import trailer
-    trailer.trailer().play(name)
-
-elif action == 'clearCache':
-    from resources.lib.zmodules import cache
-    cache.clear()
-
-##########################################################################################################################
 if action == None:
     from resources.lib.indexers import navigator
     navigator.navigator().root()
@@ -394,7 +286,7 @@ elif action == 'download':
     try: downloader.download(name, image, sources.sources().sourcesResolve(json.loads(source)[0], True))
     except: pass
 
-elif action == 'playkratos':
+elif action == 'play':
     from resources.lib.modules import sources
     sources.sources().play(title, year, imdb, tvdb, season, episode, tvshowtitle, premiered, meta, select)
 
@@ -413,10 +305,6 @@ elif action == 'alterSources':
 elif action == 'clearSources':
     from resources.lib.modules import sources
     sources.sources().clearSources()
-
-elif action == 'giggity':
-    from resources.lib.indexers import giggity
-    giggity.py
 
 elif action == 'random':
     rtype = params.get('rtype')

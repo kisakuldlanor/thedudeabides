@@ -17,684 +17,675 @@
 # Translators:
 # Translators:
 # Translators:
+# Translators:
+# gogo dave, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Exodus\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-08-01 02:03+0000\n"
-"Last-Translator: lambda81\n"
-"Language-Team: English (http://www.transifex.com/tv-addons/exodus/language/en/)\n"
+"PO-Revision-Date: 2017-04-08 18:34+0000\n"
+"Last-Translator: Viper2k4\n"
+"Language-Team: Japanese (http://www.transifex.com/tv-addons/exodus/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "#32001"
 msgid "Movies"
-msgstr ""
+msgstr "映画"
 
 msgctxt "#32002"
 msgid "TV Shows"
-msgstr ""
+msgstr "テレビ番組"
 
 msgctxt "#32003"
 msgid "My Movies"
-msgstr ""
+msgstr "My映画"
 
 msgctxt "#32004"
 msgid "My TV Shows"
-msgstr ""
+msgstr "Myテレビ番組"
 
 msgctxt "#32005"
 msgid "New Movies"
-msgstr ""
+msgstr "新作映画"
 
 msgctxt "#32006"
 msgid "New Episodes"
-msgstr ""
+msgstr "新エピソード"
 
 msgctxt "#32007"
 msgid "Channels"
-msgstr ""
+msgstr "チャンネル"
 
 msgctxt "#32008"
 msgid "Tools"
-msgstr ""
+msgstr "設定"
 
 msgctxt "#32009"
 msgid "Downloads"
-msgstr ""
+msgstr "ダウンロード"
 
 msgctxt "#32010"
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 msgctxt "#32011"
 msgid "Genres"
-msgstr ""
+msgstr "ジャンル"
 
 msgctxt "#32012"
 msgid "Year"
-msgstr ""
+msgstr "年度"
 
 msgctxt "#32013"
 msgid "People"
-msgstr ""
+msgstr "俳優"
 
 msgctxt "#32014"
 msgid "Languages"
-msgstr ""
+msgstr "言語"
 
 msgctxt "#32015"
 msgid "Certificates"
-msgstr ""
+msgstr "レーティング"
 
 msgctxt "#32016"
 msgid "Networks"
-msgstr ""
+msgstr "放送局"
 
 msgctxt "#32017"
 msgid "People Watching"
-msgstr ""
+msgstr "人気視聴中"
 
 msgctxt "#32018"
 msgid "Most Popular"
-msgstr ""
+msgstr "人気作品"
 
 msgctxt "#32019"
 msgid "Most Voted"
-msgstr ""
+msgstr "人気投票作品"
 
 msgctxt "#32020"
 msgid "Box Office"
-msgstr ""
+msgstr "ボックスオフィス"
 
 msgctxt "#32021"
 msgid "Oscar Winners"
-msgstr ""
+msgstr "オスカー受賞作品"
 
 msgctxt "#32022"
 msgid "In Theaters"
-msgstr ""
+msgstr "上映中作品"
 
 msgctxt "#32023"
 msgid "Highly Rated"
-msgstr ""
+msgstr "高評価作品"
 
 msgctxt "#32024"
 msgid "Airing today"
-msgstr ""
+msgstr "本日放送作品"
 
 msgctxt "#32025"
 msgid "Returning TV Shows"
-msgstr ""
+msgstr "新シリーズ開始作品"
 
 msgctxt "#32026"
 msgid "New TV Shows"
-msgstr ""
+msgstr "新番組"
 
 msgctxt "#32027"
 msgid "TV Calendar"
-msgstr ""
+msgstr "放送カレンダー"
 
 msgctxt "#32028"
 msgid "People Search"
-msgstr ""
+msgstr "俳優検索"
 
 msgctxt "#32029"
 msgid "People (Movies)"
-msgstr ""
+msgstr "俳優 (映画)"
 
 msgctxt "#32030"
 msgid "People (TV)"
-msgstr ""
+msgstr "俳優 (テレビ)"
 
 msgctxt "#32031"
 msgid "Discover"
-msgstr ""
+msgstr "ディスカバー"
 
 msgctxt "#32032"
 msgid "Collection"
-msgstr ""
+msgstr "コレクション"
 
 msgctxt "#32033"
 msgid "Watchlist"
-msgstr ""
+msgstr "ウォッチリスト"
 
 msgctxt "#32034"
 msgid "IMDb"
-msgstr ""
+msgstr "IMDb"
 
 msgctxt "#32035"
 msgid "Featured"
-msgstr ""
+msgstr "特集作品"
 
 msgctxt "#32036"
 msgid "History"
-msgstr ""
+msgstr "視聴履歴"
 
 msgctxt "#32037"
 msgid "Progress"
-msgstr ""
+msgstr "視聴中"
 
 msgctxt "#32038"
 msgid "Episodes"
-msgstr ""
+msgstr "エピソード"
 
 msgctxt "#32039"
 msgid "Movie Lists"
-msgstr ""
+msgstr "映画リスト"
 
 msgctxt "#32040"
 msgid "TV Show Lists"
-msgstr ""
+msgstr "テレビ番組リスト"
 
 msgctxt "#32041"
 msgid "Episode Lists"
-msgstr ""
+msgstr "エピソードリスト"
 
 msgctxt "#32042"
 msgid "No Trakt or IMDb account found."
-msgstr ""
+msgstr "TraktまたはIMDbアカウントが見つかりません。"
 
 msgctxt "#32043"
 msgid "[B]SETTINGS[/B] : General"
-msgstr ""
+msgstr "[B]SETTINGS[/B] : 全般"
 
 msgctxt "#32044"
 msgid "[B]SETTINGS[/B] : Accounts"
-msgstr ""
+msgstr "[B]SETTINGS[/B] : アカウント"
 
 msgctxt "#32045"
 msgid "[B]SETTINGS[/B] : Playback"
-msgstr ""
+msgstr "[B]SETTINGS[/B] : 再生"
 
 msgctxt "#32046"
 msgid "[B]SETTINGS[/B] : Subtitles"
-msgstr ""
+msgstr "[B]SETTINGS[/B] : 字幕"
 
 msgctxt "#32047"
 msgid "[B]SETTINGS[/B] : Providers"
-msgstr ""
+msgstr "[B]SETTINGS[/B] : プロバイダ"
 
 msgctxt "#32048"
 msgid "[B]EXODUS[/B] : Downloads"
-msgstr ""
+msgstr "[B]EXODUS[/B] : ダウンロード"
 
 msgctxt "#32049"
 msgid "[B]EXODUS[/B] : Viewtypes"
-msgstr ""
+msgstr "[B]EXODUS[/B] : 表示タイプ"
 
 msgctxt "#32050"
 msgid "[B]EXODUS[/B] : Clear providers..."
-msgstr ""
+msgstr "[B]EXODUS[/B] : プロバイダリストを消去..."
 
 msgctxt "#32051"
 msgid "[B]EXODUS[/B] : Clear metadata..."
-msgstr ""
+msgstr "[B]EXODUS[/B] : metadataを消去..."
 
 msgctxt "#32052"
 msgid "[B]EXODUS[/B] : Clear cache..."
-msgstr ""
+msgstr "[B]EXODUS[/B] : キャッシュを消去..."
 
 msgctxt "#32053"
 msgid "[I]Next Page[/I]"
-msgstr ""
+msgstr "[I]次のページ[/I]"
 
 msgctxt "#32054"
 msgid "Seasons"
-msgstr ""
+msgstr "シーズン"
 
 msgctxt "#32055"
 msgid "Season"
-msgstr ""
+msgstr "シーズン"
 
 msgctxt "#32056"
 msgid "Are you sure?"
-msgstr ""
+msgstr "本当によろしいですか？"
 
 msgctxt "#32057"
 msgid "Process Complete"
-msgstr ""
+msgstr "プロセス完了"
 
 msgctxt "#32058"
 msgid "This will slow down things until they are re-cached!"
-msgstr ""
+msgstr "再キャッシュされるまで速度が遅くなる場合があります！"
 
 msgctxt "#32059"
 msgid "CLICK HERE TO SAVE VIEW"
-msgstr ""
+msgstr "ここをクリックして表示タイプを保存"
 
 msgctxt "#32060"
-msgid "January|February|March|April|May|June|July|August|September|October|November|December"
-msgstr ""
+msgid ""
+"January|February|March|April|May|June|July|August|September|October|November|December"
+msgstr "1月|2月|3月|4月|5月|6月|7月|8月|9月|10月|11月|12月"
 
 msgctxt "#32061"
 msgid "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday"
-msgstr ""
+msgstr "月曜日|火曜日|水曜日|木曜日|金曜日|土曜日|日曜日"
 
 msgctxt "#32062"
 msgid "[B]%s[/B] : %s"
-msgstr ""
+msgstr "[B]%s[/B] : %s"
 
 msgctxt "#32063"
 msgid "Play using..."
-msgstr ""
+msgstr "再生する..."
 
 msgctxt "#32064"
 msgid "Auto Play"
-msgstr ""
+msgstr "自動再生"
 
 msgctxt "#32065"
 msgid "Queue item"
-msgstr ""
+msgstr "キューに入れる"
 
 msgctxt "#32066"
 msgid "Watched in Exodus"
-msgstr ""
+msgstr "Exodusで視聴済"
 
 msgctxt "#32067"
 msgid "Unwatched in Exodus"
-msgstr ""
+msgstr "Exodusで未視聴"
 
 msgctxt "#32068"
 msgid "Watched in Trakt"
-msgstr ""
+msgstr "Traktで視聴済"
 
 msgctxt "#32069"
 msgid "Unwatched in Trakt"
-msgstr ""
+msgstr "Traktで未視聴"
 
 msgctxt "#32070"
 msgid "Trakt Manager"
-msgstr ""
+msgstr "Trakt管理"
 
 msgctxt "#32071"
 msgid "Browse Series"
-msgstr ""
+msgstr "シリーズをブラウズ"
 
 msgctxt "#32072"
 msgid "Refresh"
-msgstr ""
+msgstr "再読込"
 
 msgctxt "#32073"
 msgid "[B]HELP[/B] : www.tvaddons.ag"
-msgstr ""
+msgstr "[B]ヘルプ[/B] : www.tvaddons.ag"
 
 msgctxt "#32074"
 msgid "[B]HELP[/B]"
-msgstr ""
+msgstr "[B]ヘルプ[/B]"
 
 msgctxt "#32301"
 msgid "Enabled"
-msgstr ""
+msgstr "有効"
 
 msgctxt "#32302"
 msgid "Disabled"
-msgstr ""
+msgstr "無効"
 
 msgctxt "#32303"
 msgid "User"
-msgstr ""
+msgstr "ユーザー名"
 
 msgctxt "#32304"
 msgid "Email"
-msgstr ""
+msgstr "メールアドレス"
 
 msgctxt "#32305"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgctxt "#32306"
 msgid "Authorization..."
-msgstr ""
+msgstr "認証..."
 
 msgctxt "#32307"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 msgctxt "#32308"
 msgid "PIN"
-msgstr ""
+msgstr "PINコード"
 
 msgctxt "#32309"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 msgctxt "#32310"
 msgid "General"
-msgstr ""
+msgstr "全般"
 
 msgctxt "#32311"
 msgid "Appearance"
-msgstr ""
+msgstr "表示スキン"
 
 msgctxt "#32312"
 msgid "Providers Timeout"
-msgstr ""
+msgstr "プロバイダのタイムアウト"
 
 msgctxt "#32313"
 msgid "Indicators"
-msgstr ""
+msgstr "視聴済インジケータ"
 
 msgctxt "#32314"
 msgid "Local"
-msgstr ""
+msgstr "ローカル"
 
 msgctxt "#32315"
 msgid "Trakt"
-msgstr ""
+msgstr "Trakt"
 
 msgctxt "#32316"
 msgid "Info Language"
-msgstr ""
+msgstr "表示言語"
 
 msgctxt "#32317"
 msgid "Flatten TV seasons"
-msgstr ""
+msgstr "全シーズンまとめ表示"
 
 msgctxt "#32318"
 msgid "Enable Fanart"
-msgstr ""
+msgstr "ファンアートを表示"
 
 msgctxt "#32319"
 msgid "Menu"
-msgstr ""
+msgstr "メニュー"
 
 msgctxt "#32320"
 msgid "New Movies"
-msgstr ""
+msgstr "新作映画"
 
 msgctxt "#32321"
 msgid "Featured"
-msgstr ""
+msgstr "特集作品"
 
 msgctxt "#32322"
 msgid "People Watching"
-msgstr ""
+msgstr "人気視聴中"
 
 msgctxt "#32323"
 msgid "Most Popular"
-msgstr ""
+msgstr "人気作品"
 
 msgctxt "#32324"
 msgid "In Theaters"
-msgstr ""
+msgstr "上映中作品"
 
 msgctxt "#32325"
 msgid "New Episodes"
-msgstr ""
+msgstr "新エピソード"
 
 msgctxt "#32326"
 msgid "Episodes"
-msgstr ""
+msgstr "エピソード"
 
 msgctxt "#32327"
 msgid "Trakt Progress"
-msgstr ""
+msgstr "Trakt進捗"
 
 msgctxt "#32328"
 msgid "Trakt Episodes"
-msgstr ""
+msgstr "Traktエピソード"
 
 msgctxt "#32329"
 msgid "My Lists"
-msgstr ""
+msgstr "Myリスト"
 
 msgctxt "#32330"
 msgid "Playback"
-msgstr ""
+msgstr "再生"
 
 msgctxt "#32331"
 msgid "Default action"
-msgstr ""
+msgstr "初期動作"
 
 msgctxt "#32332"
 msgid "Dialog"
-msgstr ""
+msgstr "ダイアログ"
 
 msgctxt "#32333"
 msgid "Directory"
-msgstr ""
+msgstr "ディレクトリ"
 
 msgctxt "#32334"
 msgid "Auto Play"
-msgstr ""
+msgstr "自動再生"
 
 msgctxt "#32335"
 msgid "Progress Dialog"
-msgstr ""
+msgstr "進捗ダイアログ"
 
 msgctxt "#32336"
 msgid "Foreground"
-msgstr ""
+msgstr "全面"
 
 msgctxt "#32337"
 msgid "Background"
-msgstr ""
+msgstr "背面"
 
 msgctxt "#32338"
 msgid "File Hosting Filters"
-msgstr ""
+msgstr "ファイルホスティングのフィルタ"
 
 msgctxt "#32339"
 msgid "Max Quality"
-msgstr ""
+msgstr "最大動画品質"
 
 msgctxt "#32340"
 msgid "SD Hosters in Auto Play"
-msgstr ""
+msgstr "SD品質を自動再生"
 
 msgctxt "#32341"
 msgid "Hosters with captchas"
-msgstr ""
+msgstr "Capcha要求ホスト"
 
 msgctxt "#32342"
 msgid "Sort by Provider"
-msgstr ""
+msgstr "プロバイダ一括表示"
 
 msgctxt "#32343"
 msgid "When playback starts..."
-msgstr ""
+msgstr "再生時の挙動"
 
 msgctxt "#32344"
 msgid "Resume Playback"
-msgstr ""
+msgstr "前回の停止位置から再生"
 
 msgctxt "#32345"
 msgid "Providers"
-msgstr ""
+msgstr "プロバイダ"
 
 msgctxt "#32346"
 msgid "Accounts"
-msgstr ""
+msgstr "アカウント"
 
 msgctxt "#32347"
 msgid "Downloads"
-msgstr ""
+msgstr "ダウンロード"
 
 msgctxt "#32348"
 msgid "Enable downloads"
-msgstr ""
+msgstr "ダウンロードを有効にする"
 
 msgctxt "#32349"
 msgid "Movies"
-msgstr ""
+msgstr "映画"
 
 msgctxt "#32350"
 msgid "TV"
-msgstr ""
+msgstr "テレビ番組"
 
 msgctxt "#32351"
 msgid "Downloading features are disabled by default."
-msgstr ""
+msgstr "ダウンロード機能は初期で無効に設定されています。"
 
 msgctxt "#32352"
 msgid "Set up your download folders in order to enable them."
-msgstr ""
+msgstr "ダウンロードフォルダを指定して有効にしてください。"
 
 msgctxt "#32353"
 msgid "Subtitles"
-msgstr ""
+msgstr "字幕"
 
 msgctxt "#32354"
 msgid "Enable subtitles"
-msgstr ""
+msgstr "サブタイトルを有効にする"
 
 msgctxt "#32355"
 msgid "Convert subtitles to UTF-8"
-msgstr ""
+msgstr "字幕をUTF-8に変換する"
 
 msgctxt "#32356"
 msgid "Primary Language"
-msgstr ""
+msgstr "第一候補の言語"
 
 msgctxt "#32357"
 msgid "Secondary Language"
-msgstr ""
+msgstr "第二候補の言語"
 
 msgctxt "#32358"
 msgid "Subtitles could be unavailable or out of sync."
-msgstr ""
+msgstr "字幕はデータが同期しなかったり存在しない場合があります。"
 
 msgctxt "#32359"
 msgid "In that case use your own subtitles."
-msgstr ""
+msgstr "その場合は手持ちの字幕が利用できます。"
 
 msgctxt "#32360"
 msgid "Providers Language"
-msgstr ""
+msgstr "プロバイダーの言語"
 
 msgctxt "#32401"
 msgid "No stream available"
-msgstr ""
+msgstr "ストリームが存在しません"
 
 msgctxt "#32402"
 msgid "Playback outside Exodus is not allowed"
-msgstr ""
+msgstr "Exodus以外での再生は許可されていません"
 
 msgctxt "#32403"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 msgctxt "#32404"
 msgid "Time elapsed: %s seconds"
-msgstr ""
+msgstr "時間経過: %s秒"
 
 msgctxt "#32405"
 msgid "%s seconds"
-msgstr ""
+msgstr "%s秒"
 
 msgctxt "#32406"
 msgid "Remaining providers: %s"
-msgstr ""
+msgstr "残りのプロバイダ: %s"
 
 msgctxt "#32407"
 msgid "Are you sure?"
-msgstr ""
+msgstr "本当によろしいですか？"
 
 msgctxt "#32408"
 msgid "Process Complete"
-msgstr ""
+msgstr "処理完了"
 
 msgctxt "#32501"
 msgid "Start from beginning"
-msgstr ""
+msgstr "最初から再生"
 
 msgctxt "#32502"
 msgid "Resume from %s"
-msgstr ""
+msgstr "%s から再生"
 
 msgctxt "#32503"
 msgid "Resume"
-msgstr ""
+msgstr "復帰再生"
 
 msgctxt "#32511"
 msgid "An account already exists."
-msgstr ""
+msgstr "アカウントが既に登録されています。"
 
 msgctxt "#32512"
 msgid "Do you want to reset?"
-msgstr ""
+msgstr "リセットしますか？"
 
 msgctxt "#32513"
 msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
-msgstr ""
+msgstr "1) [COLOR skyblue]%s[/COLOR] : へ飛ぶ"
 
 msgctxt "#32514"
 msgid "2) When prompted enter : [COLOR skyblue]%s[/COLOR]"
-msgstr ""
+msgstr "2) [COLOR skyblue]%s[/COLOR] : を入力"
 
 msgctxt "#32515"
 msgid "Trakt Manager"
-msgstr ""
+msgstr "Trakt管理"
 
 msgctxt "#32516"
 msgid "Add to [B]Collection[/B]"
-msgstr ""
+msgstr "[B]コレクション[/B]に追加"
 
 msgctxt "#32517"
 msgid "Remove from [B]Collection[/B]"
-msgstr ""
+msgstr "[B]コレクション[/B]から削除"
 
 msgctxt "#32518"
 msgid "Add to [B]Watchlist[/B]"
-msgstr ""
+msgstr "[B]Watchlist[/B]に追加"
 
 msgctxt "#32519"
 msgid "Remove from [B]Watchlist[/B]"
-msgstr ""
+msgstr "[B]Watchlist[/B]から削除"
 
 msgctxt "#32520"
 msgid "Add to [B]new List[/B]"
-msgstr ""
+msgstr "[B]new List[/B]に追加"
 
 msgctxt "#32521"
 msgid "Add to [B]%s[/B]"
-msgstr ""
+msgstr " [B]%s[/B]に追加"
 
 msgctxt "#32522"
 msgid "Remove from [B]%s[/B]"
-msgstr ""
+msgstr " [B]%s[/B]から削除"
 
 msgctxt "#32531"
 msgid "An account already exists."
-msgstr ""
+msgstr "アカウントが既に登録されています。"
 
 msgctxt "#32532"
 msgid "Do you want to reset?"
-msgstr ""
+msgstr "リセットしますか？"
 
 msgctxt "#32533"
 msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
-msgstr ""
+msgstr "1) [COLOR skyblue]%s[/COLOR] : へ飛ぶ"
 
 msgctxt "#32534"
 msgid "2) When prompted enter : [COLOR skyblue]%s[/COLOR]"
-msgstr ""
+msgstr "2) [COLOR skyblue]%s[/COLOR] : を入力"
 
 msgctxt "#32535"
 msgid "Play Random"
-msgstr ""
+msgstr "ランダム再生"
 
 msgctxt "#32536"
 msgid "Playing"
-msgstr ""
+msgstr "再生中"
 
 msgctxt "#32537"
 msgid "Nothing found to play"
-msgstr ""
+msgstr "再生できません"
 
-msgctxt "#32538"
-msgid "DEBRID-SERVICE"
-msgstr ""
-
-msgctxt "#32539"
-msgid "Configure Debrid Services in URLResolver Settings."
-msgstr ""
-
-msgctxt "#32540"
-msgid "URLResolver Settings"
-msgstr ""

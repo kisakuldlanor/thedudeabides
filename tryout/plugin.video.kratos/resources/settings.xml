@@ -7,8 +7,8 @@
 		<setting id="trakt.user" type="text" default="" visible="false" />
 		<setting id="indicators.alt" type="enum" label="32313" lvalues="32314|32315" default="1" visible="!eq(-1,)" />
 		<setting id="indicators" type="enum" label="32313" lvalues="32314" default="0" visible="eq(-2,)" />
-		<setting id="api.language" type="select" label="32316" values="AUTO|English" default="AUTO" />
-		<setting id="providers.lang" type="select" label="32360" values="English" default="English" />
+		<setting id="api.language" type="select" label="32316" values="AUTO|Bulgarian|Chinese|Croatian|Czech|Danish|Dutch|English|Finnish|French|German|Greek|Hebrew|Hungarian|Italian|Japanese|Korean|Norwegian|Polish|Portuguese|Romanian|Russian|Serbian|Slovak|Slovenian|Spanish|Swedish|Thai|Turkish|Ukrainian" default="AUTO" />
+		<setting id="providers.lang" type="select" label="32360" values="English|German|German+English|French|French+English|Polish|Polish+English|Korean|Korean+English" default="English" />
 		<setting id="flatten.tvshows" type="bool" label="32317" default="false" />
 		<setting id="fanart" type="bool" label="32318" default="true" />
 		<setting type="lsep" label="32319" />
@@ -141,18 +141,6 @@
 
 	</category>
 	<category label="32346">
-		<setting type="lsep" label="Trakt" />
-		<setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.kratos/?action=authTrakt)" />
-		<setting id="trakt.token" type="text" option="hidden" visible="false" label="" default="" />
-		<setting id="trakt.refresh" type="text" option="hidden" visible="false" label="" default="" />
-		<setting type="sep" />
-		<setting type="lsep" label="32538" />
-		<setting type="lsep" label="32539" />
-		<setting id="open_smu_settings" type="action" label="32540" enable="true" option="close" action="RunPlugin(plugin://plugin.video.kratos/?action=smuSettings)" />
-		<setting type="sep" />
-		<setting type="lsep" label="IMDb" />
-		<setting id="imdb.user" type="text" label="32303" default="" />
-		<setting type="sep" />
 		<setting type="lsep" label="FANART.TV" />
 		<setting type="lsep" label="Personal API keys provide quicker API responses." />
 		<setting type="lsep" label="Become a VIP member for many benefits at: https://fanart.tv/vip" />
@@ -160,6 +148,18 @@
 		<setting type="sep" />
 		<setting type="lsep" label="TMDb" />
 		<setting id="tm.user" type="text" option="hidden" label="32309" default="" />
+		<setting type="sep" />
+		<setting type="lsep" label="Trakt" />
+		<setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.kratos/?action=authTrakt)" />
+		<setting id="trakt.token" type="text" option="hidden" visible="false" label="" default="" />
+		<setting id="trakt.refresh" type="text" option="hidden" visible="false" label="" default="" />
+		<setting type="sep" />
+		<setting type="lsep" label="IMDb" />
+		<setting id="imdb.user" type="text" label="32303" default="" />
+		<setting type="sep" />
+		<setting type="lsep" label="32538" />
+		<setting type="lsep" label="32539" />
+		<setting id="open_smu_settings" type="action" label="32540" enable="true" option="close" action="RunPlugin(plugin://plugin.video.kratos/?action=smuSettings)" />
 		<setting type="sep" />
 		<setting type="lsep" label="Moviesplanet.is" />
 		<setting id="moviesplanet.user" type="text" label="32303" default="" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.kratos" name=" Kratos" version="2017.04.21" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+<addon id="plugin.video.kratos" name=" Kratos" version="2017.04.22" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
@@ -10,6 +10,7 @@
 		<import addon="script.kratos.artwork" version="1.0.0"/>
 		<import addon="script.kratos.metadata" version="1.0.0"/>
 		<import addon="script.module.metahandler" version="1.0.0" />
+		<import addon="script.module.kratos"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>

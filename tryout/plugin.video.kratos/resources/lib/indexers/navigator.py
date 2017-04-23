@@ -267,7 +267,7 @@ class navigator:
 
     def infoCheck(self, version):
         try:
-            control.infoDialog('Visit:  Anonymous Media Center on Facebook', control.lang(32074).encode('utf-8'), time=5000, sound=False)
+            control.infoDialog('www.tvaddons.ag', control.lang(32074).encode('utf-8'), time=5000, sound=False)
             return '1'
         except:
             return '1'
