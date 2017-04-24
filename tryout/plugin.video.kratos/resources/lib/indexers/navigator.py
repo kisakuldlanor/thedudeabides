@@ -68,23 +68,23 @@ class navigator:
 
     def movies(self, lite=False):
         self.addDirectoryItem(32011, 'movieGenres', 'genres.png', 'DefaultMovies.png')
-        self.addDirectoryItem(32012, 'movieYears', 'years.png', 'DefaultMovies.png')
-        self.addDirectoryItem(32013, 'moviePersons', 'people.png', 'DefaultMovies.png')
-        self.addDirectoryItem(32014, 'movieLanguages', 'languages.png', 'DefaultMovies.png')
-        self.addDirectoryItem(32015, 'movieCertificates', 'certificates.png', 'DefaultMovies.png')
+        #self.addDirectoryItem(32012, 'movieYears', 'years.png', 'DefaultMovies.png')
+        #self.addDirectoryItem(32013, 'moviePersons', 'people.png', 'DefaultMovies.png')
+        #self.addDirectoryItem(32014, 'movieLanguages', 'languages.png', 'DefaultMovies.png')
+        #self.addDirectoryItem(32015, 'movieCertificates', 'certificates.png', 'DefaultMovies.png')
         self.addDirectoryItem(32017, 'movies&url=trending', 'people-watching.png', 'DefaultRecentlyAddedMovies.png')
         self.addDirectoryItem(32018, 'movies&url=popular', 'most-popular.png', 'DefaultMovies.png')
         self.addDirectoryItem(32019, 'movies&url=views', 'most-voted.png', 'DefaultMovies.png')
         self.addDirectoryItem(32020, 'movies&url=boxoffice', 'box-office.png', 'DefaultMovies.png')
         self.addDirectoryItem(32021, 'movies&url=oscars', 'oscar-winners.png', 'DefaultMovies.png')
         self.addDirectoryItem(32022, 'movies&url=theaters', 'in-theaters.png', 'DefaultRecentlyAddedMovies.png')
-        self.addDirectoryItem(32005, 'movies&url=featured', 'latest-movies.png', 'DefaultRecentlyAddedMovies.png')
+        self.addDirectoryItem(32005, 'movies&url=featured', 'featured.png', 'DefaultRecentlyAddedMovies.png')
 
         if lite == False:
             if not control.setting('lists.widget') == '0':
                 self.addDirectoryItem(32003, 'mymovieliteNavigator', 'mymovies.png', 'DefaultVideoPlaylists.png')
 
-            self.addDirectoryItem(32028, 'moviePerson', 'people-search.png', 'DefaultMovies.png')
+            #self.addDirectoryItem(32028, 'moviePerson', 'people-search.png', 'DefaultMovies.png')
             self.addDirectoryItem(32010, 'movieSearch', 'search.png', 'DefaultMovies.png')
 
         self.endDirectory()
@@ -128,17 +128,17 @@ class navigator:
     def tvshows(self, lite=False):
         self.addDirectoryItem(32011, 'tvGenres', 'genres.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32016, 'tvNetworks', 'networks.png', 'DefaultTVShows.png')
-        self.addDirectoryItem(32014, 'tvLanguages', 'languages.png', 'DefaultTVShows.png')
-        self.addDirectoryItem(32015, 'tvCertificates', 'certificates.png', 'DefaultTVShows.png')
+        #self.addDirectoryItem(32014, 'tvLanguages', 'languages.png', 'DefaultTVShows.png')
+        #self.addDirectoryItem(32015, 'tvCertificates', 'certificates.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32017, 'tvshows&url=trending', 'people-watching.png', 'DefaultRecentlyAddedEpisodes.png')
         self.addDirectoryItem(32018, 'tvshows&url=popular', 'most-popular.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32023, 'tvshows&url=rating', 'highly-rated.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32019, 'tvshows&url=views', 'most-voted.png', 'DefaultTVShows.png')
-        self.addDirectoryItem(32024, 'tvshows&url=airing', 'airing-today.png', 'DefaultTVShows.png')
+        #self.addDirectoryItem(32024, 'tvshows&url=airing', 'airing-today.png', 'DefaultTVShows.png')
         #self.addDirectoryItem(32025, 'tvshows&url=active', 'returning-tvshows.png', 'DefaultTVShows.png')
-        self.addDirectoryItem(32026, 'tvshows&url=premiere', 'new-tvshows.png', 'DefaultTVShows.png')
-        self.addDirectoryItem(32006, 'calendar&url=added', 'latest-episodes.png', 'DefaultRecentlyAddedEpisodes.png', queue=True)
-        self.addDirectoryItem(32027, 'calendars', 'calendar.png', 'DefaultRecentlyAddedEpisodes.png')
+        #self.addDirectoryItem(32026, 'tvshows&url=premiere', 'new-tvshows.png', 'DefaultTVShows.png')
+        #self.addDirectoryItem(32006, 'calendar&url=added', 'latest-episodes.png', 'DefaultRecentlyAddedEpisodes.png', queue=True)
+        #self.addDirectoryItem(32027, 'calendars', 'calendar.png', 'DefaultRecentlyAddedEpisodes.png')
 
         if lite == False:
             if not control.setting('lists.widget') == '0':

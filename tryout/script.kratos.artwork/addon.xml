@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon 	id="script.kratos.artwork" 
-		version="2017.04.10" 
+		version="2017.04.23" 
 		name="Kratos Artwork" 
 		provider-name="KISAKUL">
 	<requires>

@@ -3,7 +3,7 @@
 	<category label="32310">
 		<setting id="appearance.alt" type="action" label="32311" default="-" option="close" action="RunPlugin(plugin://plugin.video.kratos/?action=artwork)" visible="!System.HasAddon(script.kratos.artwork)" />
 		<setting id="appearance.1" type="select" label="32311" values="Kratos" default="Kratos" visible="System.HasAddon(script.kratos.artwork)" />
-		<setting id="scrapers.timeout.1" type="slider" label="32312" default="30" range="10,60" option="int" />
+		<setting id="scrapers.timeout.1" type="slider" label="32312" default="10" range="02,60" option="int" />
 		<setting id="trakt.user" type="text" default="" visible="false" />
 		<setting id="indicators.alt" type="enum" label="32313" lvalues="32314|32315" default="1" visible="!eq(-1,)" />
 		<setting id="indicators" type="enum" label="32313" lvalues="32314" default="0" visible="eq(-2,)" />
@@ -18,7 +18,7 @@
 		<setting id="lists.widget" type="enum" label="32329" lvalues="32302|32301" default="1" />
 	</category>
 	<category label="32330">
-		<setting id="hosts.mode" type="enum" label="32331" lvalues="32332|32333|32334" default="1" />
+		<setting id="hosts.mode" type="enum" label="32331" lvalues="32332|32333|32334" default="2" />
 		<setting id="progress.dialog" type="enum" label="32335" lvalues="32336|32337" default="0" />
 		<setting type="lsep" label="32338" />
 		<setting id="hosts.quality" type="enum" label="32339" values="4K|1440p|1080p|720p|480p" default="0" />
