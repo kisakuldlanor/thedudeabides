@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.kratos" name=" Kratos" version="2017.04.26" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
+		<import addon="script.module.pyxbmct" version="1.1.4" />
+		<import addon="script.module.urlresolver" version="3.0.0"/>
+		<import addon="script.module.liveresolver" version="0.1.24"/>
+		<import addon="script.video.F4mProxy" version="2.2.3"/>
+		<import addon="script.kratos.artwork" version="1.0.0"/>
+		<import addon="script.kratos.metadata" version="1.0.0"/>
+		<import addon="script.module.metahandler" version="1.0.0" />
+		<import addon="script.module.kratos"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Kratos - God of War.  This addon is open source.  Use it as you wish.  Dig into it, rip it up, chop it up, make it your own, and share it if you wish.  FYI... I can and will do what I want with this addon.  If you don't like that idea, simply uninstall and do not use it.  You can contact me on Twitter:  @_KISAKUL</summary>
+		<description lang="en">Kratos - Making your streaming experience better.  </description>
+		<disclaimer lang="en">The author does not host or distribute any content. Appreciation to SClarke for collaborating, troubleshooting, and learning with me.</disclaimer>
+		<platform>all</platform>
+		<forum>Follow me on Twitter:   @_KISAKUL</forum>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+		</assets>
+		<news>Kratos - The God of War.  This addon is open source.  I can and will do what I want with this addon.  If you don't like that idea, simply uninstall and do not use it.  Otherwise, Enjoy some great content!! You can contact me on Twitter:  @_KISAKUL</news>
+	</extension>
+</addon>
