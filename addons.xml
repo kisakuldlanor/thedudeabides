@@ -201,7 +201,7 @@
 </addon>
 
 
-<addon id="script.module.muckys.common" name="Muckys Common Libraries" version="1.2.3" provider-name="Mucky Duck">
+<addon id="script.module.muckys.common" name="Ducky is a CRYBABY" version="2017.05.05" provider-name="CRYBABY DUCKY">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
   </requires>
