@@ -11,7 +11,7 @@ adult="no"
 description="Fipps Build with Arctic Zephyr Skin."
 
 name="Galaxy"
-version="2017.03.31"
+version="2017.05.05"
 url="http://myanonymousfriends.com/builds/galaxy.zip"
 gui="http://"
 kodi="17.1"
