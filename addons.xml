@@ -148,7 +148,7 @@
 
 
 
-<addon id="plugin.video.kratos" name=" Kratos" version="2017.04.26" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+<addon id="plugin.video.kratos" name=" Kratos" version="2017.05.10" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="plugin.video.youtube" version="5.2.1" optional="true" />
