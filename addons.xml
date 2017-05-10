@@ -127,13 +127,12 @@
 
 
 
-<addon id="script.module.kratos" name="[COLOR ghostwhite]Kratos Streamer[/COLOR]" version="2017.04.22" provider-name="KISAKUL">
+<addon id="script.module.kratos" name="[COLOR ghostwhite]Giggity[/COLOR]" version="2017.05.10" provider-name="KISAKUL">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.addon.common" />
   <import addon="script.module.requests" />
   <import addon="script.module.urlresolver" />
-  <import addon="script.module.liveresolver" version="0.1.24"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="giggity.py">
         <provides>all</provides>
@@ -148,14 +147,11 @@
 
 
 
-<addon id="plugin.video.kratos" name=" Kratos" version="2017.05.10" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+<addon id="plugin.video.kratos" name=" Kratos" version="2017.05.10b" provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="plugin.video.youtube" version="5.2.1" optional="true" />
     <import addon="script.module.pyxbmct" version="1.1.4" />
     <import addon="script.module.urlresolver" version="3.0.0"/>
-    <import addon="script.module.liveresolver" version="0.1.24"/>
-    <import addon="script.video.F4mProxy" version="2.2.3"/>
     <import addon="script.kratos.artwork" version="1.0.0"/>
     <import addon="script.kratos.metadata" version="1.0.0"/>
     <import addon="script.module.metahandler" version="1.0.0" />
