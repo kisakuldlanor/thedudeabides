@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon 	id="repository.anonymoustruth" 
+		name="[COLOR ghostwhite] Anonymous Truth Repo[/COLOR]" 
+		version="2017.05.27" 
+		provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR ghostwhite] Anonymous Truth Repo[/COLOR]">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+			<info compressed="false">https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/zips</datadir>
+	</extension>	
+	<extension point="xbmc.addon.metadata">
+		<summary>The Anonymous Truth Repo</summary>
+		<description>This is my repository. I can and will do whatever I want with it. If you do not like that, do not install this repo! Support at:  Facebook Group - Anonymous Media Center</description>
+		<platform>all</platform>
+	</extension>
+</addon>
