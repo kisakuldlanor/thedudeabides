@@ -44,9 +44,10 @@
 
 
 
-<addon id="plugin.program.mafwizard" name="MAF Wizard" version="2017.03.25" provider-name="KISAKUL">
+<addon id="plugin.program.mafwizard" name="MAF Wizard OLD DELETE ME" version="2017.05.26" provider-name="KISAKUL">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.program.anonymoustruth" version="1.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
