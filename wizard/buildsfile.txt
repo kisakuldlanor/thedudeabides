@@ -35,7 +35,7 @@ adult="no"
 description="Kratos lite build for any device."
 
 name="RonFluence"
-version="2017.04.14"
+version="2017.05.27"
 url="http://myanonymousfriends.com/builds/ronfluence17.zip"
 gui="http://"
 kodi="17.1"
