@@ -47,7 +47,7 @@ adult="no"
 description="Ronfluence build LITE."
 
 name="AnonFluence"
-version="2017.04.17"
+version="2017.05.27"
 url="http://myanonymousfriends.com/builds/ronfluence.zip"
 gui="http://"
 kodi="16.1"
