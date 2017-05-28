@@ -4,7 +4,7 @@ import os, xbmc, xbmcaddon
 ### User Edit Variables #################################
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = ' My Anonymous Friends Wizard'
+ADDONTITLE     = ' Anonymous Truth Wizard'
 EXCLUDES       = [ADDON_ID, 'plugin.program.anonymoustruth']
 # Text File with build info in it.
 BUILDFILE      = 'https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/wizard/buildsfile.txt'
@@ -69,7 +69,7 @@ THEME5         = '[COLOR '+COLOR1+']Current Theme:[/COLOR] [COLOR '+COLOR2+']%s[
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT    = 'No'
 # You can add \n to do line breaks
-CONTACT        = 'Thank you for choosing My Anonymous Friends Wizard.\r\n\r\nContact us on facebook at https://www.facebook.com/groups/anonymouskodi/'
+CONTACT        = 'You are using The Anonymous Truth Wizard.\r\n\r\nContact us in the Facebook Group Anonymous Media Center'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = 'http://'
 CONTACTFANART  = 'http://'

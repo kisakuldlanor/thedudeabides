@@ -3,7 +3,7 @@
 
 
 
-<addon id="plugin.program.anonymoustruth" name="Anonymous Truth Wizard" version="2017.05.27" provider-name="KISAKUL">
+<addon id="plugin.program.anonymoustruth" name="Anonymous Truth Wizard" version="2017.05.27a" provider-name="KISAKUL">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
