@@ -71,7 +71,7 @@ adult="no"
 description="ANONYMOUS Build for higher end devices."
 
 name="Fipps's Build - 4 STICKS"
-version="2017.03.31"
+version="2017.05.28"
 url="http://myanonymousfriends.com/builds/fippsbuild.zip"
 gui="http://"
 kodi="16.1"
