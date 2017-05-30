@@ -169,7 +169,7 @@
 
 
 
-<addon id="script.module.giggity" name="[COLOR ghostwhite]Giggity[/COLOR]" version="2017.05.26" provider-name="KISAKUL">
+<addon id="script.module.giggity" name="[COLOR ghostwhite]Giggity[/COLOR]" version="2017.05.30" provider-name="KISAKUL">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.addon.common" />

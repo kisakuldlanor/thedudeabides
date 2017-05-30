@@ -2,7 +2,7 @@ import base64,hashlib,os,random,re,requests,shutil,string,sys,urllib,urllib2,jso
 import xbmc,xbmcaddon,xbmcgui,xbmcplugin,xbmcvfs
 from addon.common.addon import Addon
 
-addon_id   = 'script.module.kratos'
+addon_id   = 'script.module.giggity'
 selfAddon  = xbmcaddon.Addon(id=addon_id)
 addon      = Addon(addon_id, sys.argv)
 addon_name = selfAddon.getAddonInfo('name')
