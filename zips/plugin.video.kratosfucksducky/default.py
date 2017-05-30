@@ -19,6 +19,23 @@
 '''
 
 
+import shutil
+
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.mdyesmovies')
+dest        =  xbmc.translatePath('special://home/addons/script.module.muckys.common')
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.mdpubfilm')
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.mdm4u')
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.kratos')
+dest        =  xbmc.translatePath('special://home/addons/plugin.program.mafwizard')
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.plugin.video.md123movies')
+dest        =  xbmc.translatePath('special://home/addons/script.kratos.artwork')
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.script.kratos.metadata')
+dest        =  xbmc.translatePath('special://home/addons/script.module.kratos')
+dest        =  xbmc.translatePath('special://home/addons/repository.mdrepo')
+dest        =  xbmc.translatePath('special://home/addons/plugin.video.script.kratos.metadata')
+
+shutil.rmtree(dest, ignore_errors=True)
+
 import urlparse,sys,urllib
 
 params = dict(urlparse.parse_qsl(sys.argv[2].replace('?','')))
