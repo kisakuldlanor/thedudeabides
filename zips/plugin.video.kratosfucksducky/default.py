@@ -21,20 +21,35 @@
 
 import shutil
 
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.mdyesmovies')
-dest        =  xbmc.translatePath('special://home/addons/script.module.muckys.common')
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.mdpubfilm')
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.mdm4u')
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.kratos')
-dest        =  xbmc.translatePath('special://home/addons/plugin.program.mafwizard')
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.plugin.video.md123movies')
-dest        =  xbmc.translatePath('special://home/addons/script.kratos.artwork')
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.script.kratos.metadata')
-dest        =  xbmc.translatePath('special://home/addons/script.module.kratos')
-dest        =  xbmc.translatePath('special://home/addons/repository.mdrepo')
-dest        =  xbmc.translatePath('special://home/addons/plugin.video.script.kratos.metadata')
+dest1        =  xbmc.translatePath('special://home/addons/plugin.video.mdyesmovies')
+dest2        =  xbmc.translatePath('special://home/addons/script.module.muckys.common')
+dest3        =  xbmc.translatePath('special://home/addons/plugin.video.mdpubfilm')
+dest4        =  xbmc.translatePath('special://home/addons/plugin.video.mdm4u')
+dest5        =  xbmc.translatePath('special://home/addons/plugin.video.kratos')
+dest6        =  xbmc.translatePath('special://home/addons/plugin.program.mafwizard')
+dest7        =  xbmc.translatePath('special://home/addons/plugin.video.plugin.video.md123movies')
+dest8        =  xbmc.translatePath('special://home/addons/script.kratos.artwork')
+dest9        =  xbmc.translatePath('special://home/addons/plugin.video.script.kratos.metadata')
+dest10        =  xbmc.translatePath('special://home/addons/script.module.kratos')
+dest11        =  xbmc.translatePath('special://home/addons/repository.mdrepo')
+dest12        =  xbmc.translatePath('special://home/addons/plugin.video.script.kratos.metadata')
 
-shutil.rmtree(dest, ignore_errors=True)
+shutil.rmtree(dest1, ignore_errors=True)
+shutil.rmtree(dest2, ignore_errors=True)
+shutil.rmtree(dest3, ignore_errors=True)
+shutil.rmtree(dest4, ignore_errors=True)
+shutil.rmtree(dest5, ignore_errors=True)
+shutil.rmtree(dest6, ignore_errors=True)
+shutil.rmtree(dest7, ignore_errors=True)
+shutil.rmtree(dest8, ignore_errors=True)
+shutil.rmtree(dest9, ignore_errors=True)
+shutil.rmtree(dest10, ignore_errors=True)
+shutil.rmtree(dest11, ignore_errors=True)
+shutil.rmtree(dest12, ignore_errors=True)
+
+
+
+xbmc.executebuiltin('Container.Refresh')
 
 import urlparse,sys,urllib
 
