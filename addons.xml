@@ -2,6 +2,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<addon id="script.module.urlresolver" name="URLResolver" version="3.0.31" provider-name="dipshits">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="plugin.video.youtube" optional="true" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.python.pluginsource" library="lib/default.py" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+    <description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+  </extension>
+</addon>
+
+
 
 <addon id="plugin.program.anonymoustruth" name="Anonymous Truth Wizard" version="2017.05.27b" provider-name="KISAKUL">
   <requires>
