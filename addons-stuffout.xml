@@ -1,0 +1,124 @@
+<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<addon id="plugin.program.anonymoustruth" name="Anonymous Truth Wizard" version="2017.05.27b" provider-name="KISAKUL">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="repository.anonymoustruth" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Anonymous Truth Wizard</summary>
+    <description lang="en">The Anonymous Truth Wizard was created to help the kodi community.  Performs auto maintenance to keep your device running smoothly.  Installs builds from The Anonymous Truth Team.  Installs Addons selected by the MAF Team.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+
+<addon 	id="repository.anonymoustruth" 
+		name="[COLOR ghostwhite] Anonymous Truth Repo[/COLOR]" 
+		version="2017.05.27" 
+		provider-name="[COLOR ghostwhite]KISAKUL[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR ghostwhite] Anonymous Truth Repo[/COLOR]">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+			<info compressed="false">https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/zips</datadir>
+	</extension>	
+	<extension point="xbmc.addon.metadata">
+		<summary>The Anonymous Truth Repo</summary>
+		<description>This is my repository. I can and will do whatever I want with it. If you do not like that, do not install this repo! Support at:  Facebook Group - Anonymous Media Center</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+
+
+<addon
+  id="skin.ronfluence17"
+  version="2017.05.27b"
+  name="Ronfluence 17"
+  provider-name="KISAKUL">
+  <requires>
+    <import addon="xbmc.gui" version="5.12.0"/>
+	  <import addon="script.favourites" version="6.0.3"/>
+	  <import addon="service.skin.widgets" version="0.0.32"/>
+	  <import addon="service.library.data.provider" version="0.1.6"/>
+	  <import addon="script.randomandlastitems" version="2.2.2"/>
+	  <import addon="repository.anonymoustruth" version="1.0.0"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Modded by KISAKUL...eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="en_US">Modded by KISAKUL...eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <description lang="en">Ronfluence is a MOD of Xonfluence by Helly Repo (based by Mudislander's CCM).</description>
+    <description lang="en_US">Ronfluence is a MOD of Xonfluence by Helly Repo (based by Mudislander's CCM).</description>
+    <disclaimer lang="en">Modded for ANONYMOUS KODI. Change it as you wish.</disclaimer>
+    <disclaimer lang="en_US">Modded for ANONYMOUS KODI. Change it as you wish.</disclaimer>
+    <platform>all</platform>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+	    <screenshot>resources/screenshot-01.jpg</screenshot>
+	    <screenshot>resources/screenshot-02.jpg</screenshot>
+	    <screenshot>resources/screenshot-03.jpg</screenshot>
+	    <screenshot>resources/screenshot-04.jpg</screenshot>
+	    <screenshot>resources/screenshot-05.jpg</screenshot>
+	    <screenshot>resources/screenshot-06.jpg</screenshot>
+    </assets>
+    <news>Twitter Follow for support:  @_KISAKUL</news>
+  </extension>
+</addon>
+
+
+
+<addon
+  id="skin.ronfluence16"
+  version="2017.03.11"
+  name="Ronfluence 16"
+  provider-name="KISAKUL... Mod from Helly">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+    <import addon="script.favourites" version="6.0.3"/>
+    <import addon="service.skin.widgets" version="0.0.30"/>
+    <import addon="service.library.data.provider" version="0.1.3"/>
+    <import addon="script.randomandlastitems" version="2.2.2"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">KISAKUL MOD of Helly Xonfluence.</summary>
+    <summary lang="en_US">KISAKUL MOD of Helly Xonfluence.</summary>
+    <description lang="en">This skin is a mod of Xonfluence which is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">This skin is a mod of Xonfluence which is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+
+
+
+
+</addons>
