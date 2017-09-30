@@ -2,20 +2,10 @@
 
 
 
-name="Fipps 17"
-version="2017.06.23"
-url="http://myanonymousfriends.com/builds/fippsbuild17.zip"
-gui="http://"
-kodi="17.1"
-theme="http://"
-icon="http://"
-fanart="http://"
-preview="http://"
-adult="no"
-description="Fipps Build"
+
 
 name="RonFluence"
-version="2017.07.16"
+version="2017.09.130"
 url="http://myanonymousfriends.com/builds/ronfluence17.zip"
 gui="http://"
 kodi="17.1"
@@ -37,17 +27,5 @@ fanart="https://blog.cybelangel.com/wp-content/uploads/2016/02/anonymous.jpg"
 preview="http://"
 adult="no"
 description="ANONYMOUS Build for higher end devices."
-
-name="Fipps's Build - 4 STICKS"
-version="2017.06.23"
-url="http://myanonymousfriends.com/builds/fippsbuild.zip"
-gui="http://"
-kodi="16.1"
-theme="http://"
-icon="http://myanonymousfriends.com/builds/fippsbuild.png"
-fanart="http://myanonymousfriends.com/builds/fippsbuild.png"
-preview="http://"
-adult="no"
-description="Fipp's Build for sticks."
 
 
