@@ -1,7 +1,17 @@
 
 
 
-
+name="Jumanji"
+version="2018.01.01"
+url="http://kisakul.com/builds/jumanji.zip"
+gui="http://"
+kodi="17.1"
+theme="http://"
+icon="http://kisakul.com/builds/jumanji.png"
+fanart="http://kisakul.com/builds/jumanji.png"
+preview="http://"
+adult="no"
+description="Jumanji Build...  First Run so expect updates"
 
 
 name="RonFluence"
