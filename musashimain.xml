@@ -4,75 +4,39 @@
 <thumbnail></thumbnail>
 </plugin>
 
-<dir>
-<title>our lists</title>
-<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/</trakt>
-</dir>
+    <dir>
+      <title>Trakt</title>
+      <trakt>https://ignoreme</trakt>
+    </dir>
 
     <dir>
-      <title>Trending Movies</title>
+      <title>Trakt Trending Movies</title>
       <trakt>https://api.trakt.tv/movies/trending</trakt>
     </dir>
 
     <dir>
-      <title>Popular Movies</title>
+      <title>Trakt Popular Movies</title>
       <trakt>https://api.trakt.tv/movies/popular</trakt>
     </dir>
 
-    <dir>
-      <title>Movie Watchlist</title>
-      <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-    </dir>
+ 
 
     <dir>
-      <title>Movie Collection</title>
-      <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
-    </dir>
-
-    <dir>
-      <title>Trending Shows</title>
+      <title>Trakt Trending TV Shows</title>
       <trakt>https://api.trakt.tv/shows/trending</trakt>
     </dir>
 
     <dir>
-      <title>Popular Shows</title>
+      <title>Trakt Popular TV Shows</title>
       <trakt>https://api.trakt.tv/shows/popular</trakt>
     </dir>
 
-    <dir>
-      <title>TV Watchlist</title>
-      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
-    </dir>
-
-    <dir>
-      <title>TV Collection</title>
-      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-    </dir>
-
-    <dir>
-      <title>My lists</title>
-      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
-    </dir>
-
-    <dir>
-      <title>My Liked Lists</title>
-      <trakt>https://api.trakt.tv/users/likes/lists</trakt>
-    </dir>
 
     <dir>
       <title>Reddit Top 250 (2017 Edition)</title>
       <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
     </dir>
 
-    <dir>
-      <title>Bryan Cranston Movies Trakt</title>
-      <trakt>https://api.trakt.tv/people/bryan-cranston/movies</trakt>
-    </dir>
-
-    <dir>
-      <title>Bryan Cranston shows Trakt</title>
-      <trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
-    </dir>
 
     <dir>
       <title>Search Trakt</title>
@@ -82,18 +46,21 @@
 	
 	
 	
-	
+	    <dir>
+      <title>TMDB</title>
+      <trakt>https://ignoreme</trakt>
+    </dir>
 	
 	
 	
     <dir>
-      <title>TMDB Popular</title>
+      <title>TMDB Popular Movies</title>
       <tmdb>movies/popular</tmdb>
     </dir>
 
  
     <dir>
-      <title>TMDB Upcoming</title>
+      <title>TMDB Upcoming Movies/Trailers</title>
       <tmdb>movie/upcoming</tmdb>
       <summary>Shows Trailers For Upcoming Movies</summary>
     </dir>
@@ -106,7 +73,7 @@
 
 
     <dir>
-      <title>TMDB Top Rated</title>
+      <title>TMDB Top Rated Movies</title>
       <tmdb>movies/top_rated</tmdb>
     </dir>
 
@@ -116,61 +83,61 @@
       <tmdb>genre/movies/28</tmdb>
     </dir>
 
-    Returns A List Of Movies By Specific Years. Must Change Year At The End Of The Second Tag
+    <!-- Returns A List Of Movies By Specific Years. Must Change Year At The End Of The Second Tag -->
     <dir>
       <title>Movies Released In 2014</title>
       <tmdb>year/movies/2014</tmdb>
     </dir>
 
-    Returns A List Of Movies By Production Companies. Must Change Id At The End Of The Second Tag
+    <!-- Returns A List Of Movies By Production Companies. Must Change Id At The End Of The Second Tag -->
     <dir>
         <title>Pixar Animation</title>
         <tmdb>company/movies/3</tmdb>
     </dir>
 
-    Returns A List Of Movies By A Specific Keyword. Must Change Id At The End Of The Second Tag
+    <!-- Returns A List Of Movies By A Specific Keyword. Must Change Id At The End Of The Second Tag -->
     <dir>
       <title>TMDB Army Movies</title>
       <tmdb>keyword/movies/6092</tmdb>
     </dir>
 
-    Returns A List Of A Specific Collection. Must Change Id At The End Of The Second Tag
+    <!-- Returns A List Of A Specific Collection. Must Change Id At The End Of The Second Tag -->
     <dir>
       <title>TMDB Star Wars Collection</title>
       <tmdb>collection/10</tmdb>
     </dir>
 
-    Returns The TMDB Popular TV Shows List
+    <!-- Returns The TMDB Popular TV Shows List -->
     <dir>
       <title>TMDB Popular</title>
       <tmdb>tv/popular</tmdb>
     </dir>
 
-    Returns The TMDB Top Rated TV Shows List
+    <!-- Returns The TMDB Top Rated TV Shows List -->
     <dir>
       <title>TMDB Top Rated</title>
       <tmdb>tv/top_rated</tmdb>
     </dir>
 
-    Returns A List Of Shows Airing Today
+    <!-- Returns A List Of Shows Airing Today -->
     <dir>
       <title>TMDB Airing Today</title>
       <tmdb>tv/today</tmdb>
     </dir>
 
-    Returns A List Of Shows Airing In The Next 7 Days
+    <!-- Returns A List Of Shows Airing In The Next 7 Days -->
     <dir>
       <title>TMDB On The Air</title>
       <tmdb>tv/on_the_air</tmdb>
     </dir>
 
-    Returns A List Of Shows By Genre. Must Change Id At The End Of The Second Tag
+    <!-- Returns A List Of Shows By Genre. Must Change Id At The End Of The Second Tag -->
     <dir>
       <title>TMDB Animation Shows</title>
       <tmdb>genre/shows/16</tmdb>
     </dir>
 
-    Returns A List Of TV Shows By Network. Must Change Id At The End Of The Second Tag
+    <!-- Returns A List Of TV Shows By Network. Must Change Id At The End Of The Second Tag -->
     <dir>
         <title>ABC</title>
         <tmdb>network/shows/2</tmdb>
