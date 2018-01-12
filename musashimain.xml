@@ -82,32 +82,32 @@
 	
 	
 	
-	    Returns The TMDB Popular Movies List
+	
     <dir>
       <title>TMDB Popular</title>
       <tmdb>movies/popular</tmdb>
     </dir>
 
-    Returns Upcoming Movies Then Trailers For The Movies.  Second Tag Must Be movie/upcoming
+ 
     <dir>
       <title>TMDB Upcoming</title>
       <tmdb>movie/upcoming</tmdb>
       <summary>Shows Trailers For Upcoming Movies</summary>
     </dir>
 
-    Returns A List Of Now Playing Movies
+  
     <dir>
       <title>TMDB Now Playing</title>
       <tmdb>movies/now_playing</tmdb>
     </dir>
 
-    Returns A List Of TMDB Top Rated Movies
+
     <dir>
       <title>TMDB Top Rated</title>
       <tmdb>movies/top_rated</tmdb>
     </dir>
 
-    Returns A List Of Movies By A Specific Genre.  Must Change Id At The End Of The Second Tag
+
     <dir>
       <title>TMDB Action Movies</title>
       <tmdb>genre/movies/28</tmdb>
