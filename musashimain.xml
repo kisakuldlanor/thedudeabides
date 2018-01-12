@@ -4,7 +4,10 @@
 <thumbnail></thumbnail>
 </plugin>
 
-
+<dir>
+<title>our lists</title>
+<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/</trakt>
+</dir>
 
     <dir>
       <title>Trending Movies</title>
