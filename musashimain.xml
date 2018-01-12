@@ -8,7 +8,7 @@
 
 <dir>
 <title>Lilly's TV Shows</title>
-<trakt>https://trakt.tv/users/ronald-lukasik/lists/lilly</trakt>
+<trakt>https://trakt.tv/users/ronald.lukasik/lists/lilly</trakt>
 </dir>
 
 <dir>
@@ -23,5 +23,8 @@
 
 <dir>
 <title>tv lists</title>
-<trakt>https://trakt.tv/users/ronald-lukasik/lists</trakt>
+<trakt><dir>
+<title></title>
+<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/</trakt>
+</dir></trakt>
 </dir>
