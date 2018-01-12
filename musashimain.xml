@@ -1,3 +1,15 @@
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.musashi/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.musashi/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+
 <dir>
 <title>Trending TV Shows</title>
 <trakt>https://api.trakt.tv/shows/trending</trakt>
