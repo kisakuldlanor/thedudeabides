@@ -10,6 +10,12 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<plugin>
+<name>Popular Movies</name>
+<link>plugin://plugin.video.musashi/?action=popular</link>
+<thumbnail></thumbnail>
+</plugin>
+
 <dir>
 <title>Trending TV Shows</title>
 <trakt>https://api.trakt.tv/shows/trending</trakt>
