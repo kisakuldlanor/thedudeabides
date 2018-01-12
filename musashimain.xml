@@ -20,3 +20,8 @@
 <title>Ron's TV Shows</title>
 <trakt>https://api.trakt.tv/users/ronald.lukasik/lists/ron/items</trakt>
 </dir>
+
+<dir>
+<title>tv lists</title>
+<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/</trakt>
+</dir>
