@@ -8,15 +8,15 @@
 
 <dir>
 <title>Lilly's TV Shows</title>
-<trakt>https://api.trakt.tv/users/ronald-lukasik/lists/lilly/items</trakt>
+<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/lilly/items</trakt>
 </dir>
 
 <dir>
 <title>Beth's TV Shows</title>
-<trakt>https://api.trakt.tv/users/ronald-lukasik/lists/beth/items</trakt>
+<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/beth/items</trakt>
 </dir>
 
 <dir>
 <title>Ron's TV Shows</title>
-<trakt>https://api.trakt.tv/users/ronald-lukasik/lists/ron/items</trakt>
+<trakt>https://api.trakt.tv/users/ronald.lukasik/lists/ron/items</trakt>
 </dir>
