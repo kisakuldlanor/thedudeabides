@@ -1,4 +1,8 @@
-
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.musashi/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
 
     <dir>
       <title>Movies</title>
@@ -15,8 +19,3 @@
     </dir>
 	
 	
-<plugin>
-<name>Settings</name>
-<link>plugin://plugin.video.musashi/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
