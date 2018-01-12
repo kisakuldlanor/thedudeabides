@@ -4,79 +4,42 @@
 <thumbnail></thumbnail>
 </plugin>
 
-    <dir>
-      <title>Trakt Trending TV Shows</title>
-      <trakt>https://api.trakt.tv/shows/trending</trakt>
-    </dir>
 
     <dir>
-      <title>Trakt Popular TV Shows</title>
-      <trakt>https://api.trakt.tv/shows/popular</trakt>
-    </dir>
-	
-    <!-- Returns The TMDB Popular TV Shows List -->
-    <dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-    </dir>
-
-    <!-- Returns The TMDB Top Rated TV Shows List -->
-    <dir>
-      <title>TMDB Top Rated</title>
-      <tmdb>tv/top_rated</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Shows Airing Today -->
-    <dir>
-      <title>TMDB Airing Today</title>
-      <tmdb>tv/today</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Shows Airing In The Next 7 Days -->
-    <dir>
-      <title>TMDB On The Air</title>
-      <tmdb>tv/on_the_air</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Shows By Genre. Must Change Id At The End Of The Second Tag -->
-    <dir>
-      <title>TMDB Animation Shows</title>
-      <tmdb>genre/shows/16</tmdb>
-    </dir>
-	
-	
-    <dir>
-      <title>Trakt Trending Movies</title>
-      <trakt>https://api.trakt.tv/movies/trending</trakt>
-    </dir>
-
-    <dir>
-      <title>Trakt Popular Movies</title>
-      <trakt>https://api.trakt.tv/movies/popular</trakt>
-    </dir>
-	
-	<dir>
-      <title>TMDB Popular Movies</title>
+      <title>Popular Movies</title>
       <tmdb>movies/popular</tmdb>
     </dir>
 
- 
-    <dir>
-      <title>TMDB Upcoming Movies/Trailers</title>
-      <tmdb>movie/upcoming</tmdb>
-      <summary>Shows Trailers For Upcoming Movies</summary>
-    </dir>
 
-  
+
     <dir>
-      <title>TMDB Now Playing</title>
+      <title>Movies Playing Now</title>
       <tmdb>movies/now_playing</tmdb>
     </dir>
 
 
     <dir>
-      <title>TMDB Top Rated Movies</title>
+      <title>Top Rated Movies</title>
       <tmdb>movies/top_rated</tmdb>
     </dir>
-	
-	
+
+
+
+    <dir>
+      <title>Popular TV Shows</title>
+      <tmdb>tv/popular</tmdb>
+    </dir>
+
+
+    <dir>
+      <title>Top Rated TV Shows</title>
+      <tmdb>tv/top_rated</tmdb>
+    </dir>
+
+
+
+
+    <dir>
+      <title>Search</title>
+      <tmdb>search</tmdb>
+    </dir>
