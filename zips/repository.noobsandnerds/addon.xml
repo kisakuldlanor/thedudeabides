@@ -1,50 +1,4 @@
-<addons>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<addon id="plugin.program.anonymoustruth" name="Anonymous Truth Wizard" version="2017.05.27b" provider-name="KISAKUL">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="repository.anonymoustruth" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">The Anonymous Truth Wizard</summary>
-    <description lang="en">The Anonymous Truth Wizard was created to help the kodi community.  Performs auto maintenance to keep your device running smoothly.  Installs builds from The Anonymous Truth Team.  Installs Addons selected by the MAF Team.</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.musashi" name="Musashi" version="2018.01.12" provider-name="dlanor">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0" />
-        <import addon="script.module.nanscrapers" version="0.5.5" />
-        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
-        <import addon="script.module.beautifulsoup" version="3.2.1" />
-        <import addon="script.module.requests" version="2.9.1" />
-        <import addon="script.module.addon.common" version="2.0.0" />
-        <import addon="script.module.xmltodict" version="0.9.0" />
-        <import addon="repository.noobsandnerds" version="2.3.0" />
-        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.urlresolver" version="1.2.0" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>audio video</provides>
-    </extension>
-    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
-    <extension point="xbmc.addon.metadata">
-      <summary lang="en">Musashi Media Addon</summary>
-      <description lang="en">Musashi Media Addon</description>
-      <disclaimer lang="en">Glorified search engine to find what you are looking for freely on the interweb.</disclaimer>
-      <platform>all</platform>
-        <website></website>
-        <video_guide></video_guide>
-    </extension>
-</addon>
-
 <addon id="repository.noobsandnerds" name="noobsandnerds Repository" version="2.3.3" provider-name="noobsandnerds">
         <extension point="xbmc.addon.repository" name="noobsandnerds Repository">
                 <dir>
@@ -107,5 +61,3 @@
                 <platform>all</platform>
         </extension>
 </addon>
-
-</addons>
