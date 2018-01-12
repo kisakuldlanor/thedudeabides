@@ -1,0 +1,33 @@
+    <dir>
+      <title>Trakt Trending Movies</title>
+      <trakt>https://api.trakt.tv/movies/trending</trakt>
+    </dir>
+
+    <dir>
+      <title>Trakt Popular Movies</title>
+      <trakt>https://api.trakt.tv/movies/popular</trakt>
+    </dir>
+	
+	<dir>
+      <title>TMDB Popular Movies</title>
+      <tmdb>movies/popular</tmdb>
+    </dir>
+
+ 
+    <dir>
+      <title>TMDB Upcoming Movies/Trailers</title>
+      <tmdb>movie/upcoming</tmdb>
+      <summary>Shows Trailers For Upcoming Movies</summary>
+    </dir>
+
+  
+    <dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+    </dir>
+
+
+    <dir>
+      <title>TMDB Top Rated Movies</title>
+      <tmdb>movies/top_rated</tmdb>
+    </dir>

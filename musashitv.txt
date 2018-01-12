@@ -1,0 +1,39 @@
+    <dir>
+      <title>Trakt Trending TV Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+    </dir>
+
+    <dir>
+      <title>Trakt Popular TV Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
+    </dir>
+	
+    <!-- Returns The TMDB Popular TV Shows List -->
+    <dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+    </dir>
+
+    <!-- Returns The TMDB Top Rated TV Shows List -->
+    <dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+    </dir>
+
+    <!-- Returns A List Of Shows Airing Today -->
+    <dir>
+      <title>TMDB Airing Today</title>
+      <tmdb>tv/today</tmdb>
+    </dir>
+
+    <!-- Returns A List Of Shows Airing In The Next 7 Days -->
+    <dir>
+      <title>TMDB On The Air</title>
+      <tmdb>tv/on_the_air</tmdb>
+    </dir>
+
+    <!-- Returns A List Of Shows By Genre. Must Change Id At The End Of The Second Tag -->
+    <dir>
+      <title>TMDB Animation Shows</title>
+      <tmdb>genre/shows/16</tmdb>
+    </dir>

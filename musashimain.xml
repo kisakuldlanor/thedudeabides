@@ -1,186 +1,22 @@
+
+
+    <dir>
+      <title>Movies</title>
+      <trakt>https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/musashimovies.xml</trakt>
+    </dir>
+
+
+
+
+
+    <dir>
+      <title>TV Shows</title>
+      <trakt>https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/musashitv.xml</trakt>
+    </dir>
+	
+	
 <plugin>
 <name>Settings</name>
 <link>plugin://plugin.video.musashi/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
-
-    <dir>
-      <title>Trakt</title>
-      <trakt>https://ignoreme</trakt>
-    </dir>
-
-    <dir>
-      <title>Trakt Trending Movies</title>
-      <trakt>https://api.trakt.tv/movies/trending</trakt>
-    </dir>
-
-    <dir>
-      <title>Trakt Popular Movies</title>
-      <trakt>https://api.trakt.tv/movies/popular</trakt>
-    </dir>
-
- 
-
-    <dir>
-      <title>Trakt Trending TV Shows</title>
-      <trakt>https://api.trakt.tv/shows/trending</trakt>
-    </dir>
-
-    <dir>
-      <title>Trakt Popular TV Shows</title>
-      <trakt>https://api.trakt.tv/shows/popular</trakt>
-    </dir>
-
-
-    <dir>
-      <title>Reddit Top 250 (2017 Edition)</title>
-      <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
-    </dir>
-
-
-    <dir>
-      <title>Search Trakt</title>
-      <trakt>search</trakt>
-    </dir>
-	
-	
-	
-	
-	    <dir>
-      <title>TMDB</title>
-      <trakt>https://ignoreme</trakt>
-    </dir>
-	
-	
-	
-    <dir>
-      <title>TMDB Popular Movies</title>
-      <tmdb>movies/popular</tmdb>
-    </dir>
-
- 
-    <dir>
-      <title>TMDB Upcoming Movies/Trailers</title>
-      <tmdb>movie/upcoming</tmdb>
-      <summary>Shows Trailers For Upcoming Movies</summary>
-    </dir>
-
-  
-    <dir>
-      <title>TMDB Now Playing</title>
-      <tmdb>movies/now_playing</tmdb>
-    </dir>
-
-
-    <dir>
-      <title>TMDB Top Rated Movies</title>
-      <tmdb>movies/top_rated</tmdb>
-    </dir>
-
-
-    <dir>
-      <title>TMDB Action Movies</title>
-      <tmdb>genre/movies/28</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Movies By Specific Years. Must Change Year At The End Of The Second Tag -->
-    <dir>
-      <title>Movies Released In 2014</title>
-      <tmdb>year/movies/2014</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Movies By Production Companies. Must Change Id At The End Of The Second Tag -->
-    <dir>
-        <title>Pixar Animation</title>
-        <tmdb>company/movies/3</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Movies By A Specific Keyword. Must Change Id At The End Of The Second Tag -->
-    <dir>
-      <title>TMDB Army Movies</title>
-      <tmdb>keyword/movies/6092</tmdb>
-    </dir>
-
-    <!-- Returns A List Of A Specific Collection. Must Change Id At The End Of The Second Tag -->
-    <dir>
-      <title>TMDB Star Wars Collection</title>
-      <tmdb>collection/10</tmdb>
-    </dir>
-
-    <!-- Returns The TMDB Popular TV Shows List -->
-    <dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-    </dir>
-
-    <!-- Returns The TMDB Top Rated TV Shows List -->
-    <dir>
-      <title>TMDB Top Rated</title>
-      <tmdb>tv/top_rated</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Shows Airing Today -->
-    <dir>
-      <title>TMDB Airing Today</title>
-      <tmdb>tv/today</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Shows Airing In The Next 7 Days -->
-    <dir>
-      <title>TMDB On The Air</title>
-      <tmdb>tv/on_the_air</tmdb>
-    </dir>
-
-    <!-- Returns A List Of Shows By Genre. Must Change Id At The End Of The Second Tag -->
-    <dir>
-      <title>TMDB Animation Shows</title>
-      <tmdb>genre/shows/16</tmdb>
-    </dir>
-
-    <!-- Returns A List Of TV Shows By Network. Must Change Id At The End Of The Second Tag -->
-    <dir>
-        <title>ABC</title>
-        <tmdb>network/shows/2</tmdb>
-    </dir>
-
-    Returns A List By A Specific Keyword. Must Change Id At The End Of The Second Tag
-    <dir>
-      <title>TMDB King Shows</title>
-      <tmdb>keyword/shows/13084</tmdb>
-    </dir>
-
-    Returns A Specific TMDB List. Must Change Id At The End Of The Second Tag
-    <dir>
-      <title>TMDB List: Animal Kingdom</title>
-      <tmdb>list/13488</tmdb>
-    </dir>
-
-    Returns The TMDB Popular People List.  Results Show Only Movie Titles Currently
-    <dir>
-      <title>Popular People</title>
-      <tmdb>people/popular</tmdb>
-    </dir>
-
-    Returns A List Of Shows By A Person. Must Change Id At The End Of The Second Tag
-    <dir>
-      <title>Bryan Cranston Shows TMDB</title>
-      <tmdb>person/shows/17419</tmdb>
-    </dir>
-
-    Returns A List Of Movies By A Person.  Must Change Id At The End Of The Second Tag
-    <dir>
-      <title>Bryan Cranston Movies TMDB</title>
-      <tmdb>person/movies/17419</tmdb>
-    </dir>
-
-    Returns Movie Trailers For Any Movies You Want.  You Must Change The Id At The End Of The Second Tag
-   <dir>
-      <title>Star Wars: The Last Jedi TRAILER</title>
-      <tmdb>trailer/181808</tmdb>
-    </dir>
-
-    Returns A List Of Items Searched For From TMDB
-    <dir>
-      <title>Search TMDB</title>
-      <tmdb>search</tmdb>
-    </dir>
